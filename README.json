@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "description": "This research was supported by the joint grant P007 from Mohamed Bin Zayed University of Artificial Intelligence and the Weizmann Institute of Science. The authors would like to express their sincere gratitude for this generous support, which made the study possible.",
+      "items": [],
+      "title": "Acknowledgments"
+    },
+    {
+      "description": "If you find our work useful. Please consider giving a star :star: and a citation.\nIn this repository, we have gathered some of the most promising self-supervised learning approaches for video analysis and organized them based on their publication year. Whether you are new to self-supervised learning in videos or an experienced researcher in the field, we hope that this repository will serve as a valuable resource for exploring the latest advances in this exciting area of research.\nLet's collaborate and enrich this list together! Reach out to me or submit a pull request. Your contributions are highly appreciated.",
+      "items": [],
+      "title": "Citing"
+    },
+    {
+      "description": "Video self-supervised learning is a family of methods that learns useful spatial and temporal representations from videos without requiring a manually annotated label for every training example. Common objectives include masked reconstruction, contrastive learning, temporal prediction, latent feature prediction, motion modeling, cross-modal learning, and knowledge distillation.",
+      "items": [],
+      "title": "What is video self-supervised learning?"
+    },
+    {
+      "description": "Video SSL and VideoSSL are common abbreviations for video self-supervised learning. In research literature the same area is also described as self-supervised video representation learning, video representation pretraining, masked video modeling, and self-supervised action recognition.",
+      "items": [],
+      "title": "What does Video SSL or VideoSSL mean?"
+    },
+    {
+      "description": "Frequently used benchmarks include UCF101, HMDB51, Kinetics-400, Something-Something V1 and V2, Diving48, and EPIC-KITCHENS. Different benchmarks emphasize appearance, motion, temporal reasoning, egocentric activity understanding, or fine-grained actions.",
+      "items": [],
+      "title": "Which benchmarks are common in self-supervised video learning?"
+    },
+    {
+      "description": "Major families include contrastive and non-contrastive representation learning, masked video autoencoding and masked feature modeling, predictive and JEPA-style learning, motion-aware objectives, audio-visual or video-language self-supervision, temporal-order and transformation prediction, and fine-grained correspondence learning.",
+      "items": [],
+      "title": "What are the main families of VideoSSL methods?"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:23.228Z",
+    "original_repository": "Malitha123/awesome-video-self-supervised-learning",
+    "original_repository_sha": "fa7a8cff8403f53a24e4984f108a5498a3479bc3",
+    "enhanced_repository": "enhansome/enhansome-video-self-supervised-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Surveys with stars"
+  }
+}
