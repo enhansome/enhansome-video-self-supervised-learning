@@ -1,39 +1,1429 @@
 {
   "items": [
     {
-      "description": "This research was supported by the joint grant P007 from Mohamed Bin Zayed University of Artificial Intelligence and the Weizmann Institute of Science. The authors would like to express their sincere gratitude for this generous support, which made the study possible.",
-      "items": [],
-      "title": "Acknowledgments"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How Severe Is Benchmark-Sensitivity in Video Self-supervised Learning? (2022, October) In Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022 Fida Mohammad Thoker, Hazel Doughty, Piyush Bagad, Cees Snoek [Paper]",
+          "description": "[Github] [Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509868847,
+            "language": "Python",
+            "last_commit": "2023-08-31T08:59:14Z",
+            "owner": "fmthoker",
+            "repo": "SEVERE-BENCHMARK",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How Effective are Self-Supervised Models for Contact Identification in Videos (2024) arXiv preprint Malitha Gunawardhana, Limalka Sadith, Liel David, Daniel Harari, Muhammad Haris Khan [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616849686,
+            "language": "Python",
+            "last_commit": "2024-09-25T05:54:41Z",
+            "owner": "Malitha123",
+            "repo": "Model_Eval",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEVERE++: Evaluating Benchmark Sensitivity in Generalization of Video Representation Learning (2024) arXiv preprint Fida Mohammad Thoker, Letian Jiang, Chen Zhao, Piyush Bagad, Hazel Doughty, Bernard Ghanem, Cees G. M. Snoek [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960333388,
+            "language": null,
+            "last_commit": "2025-04-04T08:55:24Z",
+            "owner": "fmthoker",
+            "repo": "SEVERE-BENCHMARK-plus-plus",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Benchmarking"
     },
     {
-      "description": "If you find our work useful. Please consider giving a star :star: and a citation.\nIn this repository, we have gathered some of the most promising self-supervised learning approaches for video analysis and organized them based on their publication year. Whether you are new to self-supervised learning in videos or an experienced researcher in the field, we hope that this repository will serve as a valuable resource for exploring the latest advances in this exciting area of research.\nLet's collaborate and enrich this list together! Reach out to me or submit a pull request. Your contributions are highly appreciated.",
-      "items": [],
-      "title": "Citing"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning (2026) arXiv preprint Lorenzo Mur-Labadia, Matthew Muckley, Amir Bar, Mido Assran, Koustuv Sinha, Mike Rabbat, Yann LeCun, Nicolas Ballas, Adrien Bardes [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 972931464,
+            "language": "Python",
+            "last_commit": "2026-03-23T10:13:05Z",
+            "owner": "facebookresearch",
+            "repo": "vjepa2",
+            "stars": 4484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence (2026) arXiv preprint Feilong Tang, Xiang An, Yunyao Yan, Yin Xie, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Chunyuan Li, Shikun Feng, Changrui Chen, Huajie Tan, Ming Hu, Manyuan Zhang, Bo Li, Ziyong Feng, Ziwei Liu, Zongyuan Ge, Jiankang Deng [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1120863872,
+            "language": "Python",
+            "last_commit": "2026-06-20T02:08:18Z",
+            "owner": "EvolvingLMMs-Lab",
+            "repo": "OneVision-Encoder",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Learning of Structured Dynamics from Videos (2026) arXiv preprint Lukas Knobel, Andrew Zisserman, Yuki M. Asano [Paper]",
+          "description": "[Code] [Project Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1276908638,
+            "language": null,
+            "last_commit": "2026-07-24T07:34:39Z",
+            "owner": "lukasknobel",
+            "repo": "StructuredDynamics",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning (2026) CVPR 2026 Yang Liu, Qianqian Xu, Peisong Wen, Siran Dai, Xilin Zhao, Qingming Huang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1169129628,
+            "language": "Python",
+            "last_commit": "2026-03-30T07:30:01Z",
+            "owner": "yafeng19",
+            "repo": "Co-Settle",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrackMAE: Video Representation Learning via Track Mask and Predict (2026) CVPR 2026 Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194531031,
+            "language": "Python",
+            "last_commit": "2026-06-05T16:50:14Z",
+            "owner": "rvandeghen",
+            "repo": "TrackMAE",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrAction: Action Recognition with Sparse Trajectories (2026) arXiv preprint Jan F. Meier, Felix B. Mueller, Alexander Ecker, Timo Lüddecke [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1255908309,
+            "language": null,
+            "last_commit": "2026-06-01T09:30:34Z",
+            "owner": "ecker-lab",
+            "repo": "TrAction",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Factorized Latent Dynamics for Video JEPA: An Empirical Study of Auxiliary Objectives (2026) arXiv preprint Santosh Premi [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240794315,
+            "language": "Python",
+            "last_commit": "2026-05-16T17:06:34Z",
+            "owner": "santoshpremi",
+            "repo": "Factorized-Latent-Dynamics-for-Video-JEPA-An-Empirical-Study-of-Auxiliary-Objectives",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depth-Wise Representation Development Under Blockwise Self-Supervised Learning for Video Vision Transformers (2026) arXiv preprint Jonas Römer, Timo Dickscheid [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1131785121,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-15T12:40:54Z",
+            "owner": "JosRor",
+            "repo": "BWSSL-for-Video-ViTs",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "2026"
     },
     {
-      "description": "Video self-supervised learning is a family of methods that learns useful spatial and temporal representations from videos without requiring a manually annotated label for every training example. Common objectives include masked reconstruction, contrastive learning, temporal prediction, latent feature prediction, motion modeling, cross-modal learning, and knowledge distillation.",
-      "items": [],
-      "title": "What is video self-supervised learning?"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning (2025) arXiv preprint Mido Assran, Adrien Bardes, David Fan, Quentin Garrido, Russell Howes, Mojtaba, Komeili, Matthew Muckley, Ammar Rizvi, Claire Roberts, Koustuv Sinha, Artem Zholus, Sergio Arnaud, Abha Gejji, Ada Martin, Francois Robert Hogan, Daniel Dugas, Piotr Bojanowski, Vasil Khalidov, Patrick Labatut, Francisco Massa, Marc Szafraniec, Kapil Krishnakumar, Yong Li, Xiaodong Ma, Sarath Chandar, Franziska Meier, Yann LeCun, Michael Rabbat, Nicolas Ballas ; [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 972931464,
+            "language": "Python",
+            "last_commit": "2026-03-23T10:13:05Z",
+            "owner": "facebookresearch",
+            "repo": "vjepa2",
+            "stars": 4484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning (2025) CVPR 2025 Fida Mohammad Thoker, Letian Jiang, Chen Zhao†, Bernard Ghanem [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945844824,
+            "language": "Python",
+            "last_commit": "2025-11-17T12:09:13Z",
+            "owner": "fmthoker",
+            "repo": "SMILE",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing (2025) CVPR 2025 Niu Lian, Jun Li, Jinpeng Wang, Ruisheng Luo, Yaowei Wang, Shu-Tao Xia, Bin Chen [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940498688,
+            "language": "Python",
+            "last_commit": "2025-04-08T15:56:57Z",
+            "owner": "EliSpectre",
+            "repo": "CVPR25-AutoSSVH",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advancing video self-supervised learning via image foundation models (2025) Pattern Recognition Letters 2025 Jingwei Wu, Zhewei Huang, Chang Liu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921490485,
+            "language": "Python",
+            "last_commit": "2025-01-27T07:41:24Z",
+            "owner": "JingwWu",
+            "repo": "advise-video-ssl",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "2025"
     },
     {
-      "description": "Video SSL and VideoSSL are common abbreviations for video self-supervised learning. In research literature the same area is also described as self-supervised video representation learning, video representation pretraining, masked video modeling, and self-supervised action recognition.",
-      "items": [],
-      "title": "What does Video SSL or VideoSSL mean?"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MAR: Masked Autoencoders for Efficient Action Recognition (2024) IEEE Transactions on Multimedia 2024 Zhiwu Qing, Shiwei Zhang, Ziyuan Huang, Xiang Wang, Yuehuan Wang, Yiliang Lv, Changxin Gao, Nong Sang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568713742,
+            "language": "Python",
+            "last_commit": "2022-12-07T04:01:16Z",
+            "owner": "alibaba-mmai-research",
+            "repo": "Masked-Action-Recognition",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Latent Masked Image Modeling for Self-supervised Visual Representation Learning (2024) ECCV 2024 Yibing Wei, Abhinav Gupta & Pedro Morgado [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827542749,
+            "language": "Python",
+            "last_commit": "2025-03-05T06:35:49Z",
+            "owner": "yibingwei-1",
+            "repo": "LatentMIM",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens (2024) ICML 2024 Sunil Hwang, Jaehong Yoon, Youngwan Lee, Sung Ju Hwan [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580418842,
+            "language": "Python",
+            "last_commit": "2024-06-15T15:42:04Z",
+            "owner": "sunilhoho",
+            "repo": "EVEREST",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MotionMAE: Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders (2024) BMVC 2024 Haosen Yang, Deng Huang, Bin Wen, Jiannan Wu, Hongxun Yao, Yi Jiang, Xiatian Zhu, Zehuan Yuan [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 547162819,
+            "language": null,
+            "last_commit": "2024-07-22T12:27:16Z",
+            "owner": "happy-hsy",
+            "repo": "MotionMAE",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Predict Activity Progress by Self-Supervised Video Alignment (2024) CVPR 2024 Gerard Donahue, Ehsan Elhamifar; [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 772133387,
+            "language": "Python",
+            "last_commit": "2024-07-26T17:34:37Z",
+            "owner": "gerardDonahue",
+            "repo": "GTCC_CVPR2024",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XKD: Cross-modal Knowledge Distillation with Domain Alignment for Video Representation Learning (2024) AAAI 2024 Pritam Sarkar, Ali Etemad [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570396423,
+            "language": "Python",
+            "last_commit": "2024-07-09T21:52:55Z",
+            "owner": "pritamqu",
+            "repo": "XKD",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised learning of video representations from a child's perspective (2024) CogSci 2024 A. Emin Orhan, Wentao Wang, Alex N. Wang, Mengye Ren, Brenden M. Lake; [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749650664,
+            "language": "Python",
+            "last_commit": "2024-10-13T20:58:46Z",
+            "owner": "eminorhan",
+            "repo": "video-models",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViC-MAE: Self-supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders (2024) ECCV 2024 Jefferson Hernandez, Ruben Villegas, Vicente Ordonez; [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 742968484,
+            "language": "Python",
+            "last_commit": "2024-03-06T21:42:10Z",
+            "owner": "jeffhernandez1995",
+            "repo": "ViC-MAE",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repeat and learn: Self-supervised visual representations learning by Repeated Scene Localization (2024) Pattern Recognition 2024 Yuanhang Zhang, Shuang Yang, Shiguang Shan, Xilin Chen; [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624768308,
+            "language": "Python",
+            "last_commit": "2024-05-08T03:35:46Z",
+            "owner": "Hussein-A-Hassan",
+            "repo": "RSL-Pretext",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "2024"
     },
     {
-      "description": "Frequently used benchmarks include UCF101, HMDB51, Kinetics-400, Something-Something V1 and V2, Diving48, and EPIC-KITCHENS. Different benchmarks emphasize appearance, motion, temporal reasoning, egocentric activity understanding, or fine-grained actions.",
-      "items": [],
-      "title": "Which benchmarks are common in self-supervised video learning?"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OmniMAE: Single Model Masked Pretraining on Images and Videos (2023) CVPR 2023 Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh,Kalyan Vasudev Alwala, Armand Joulin , Ishan Misra [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 449912482,
+            "language": "Python",
+            "last_commit": "2022-11-12T15:16:35Z",
+            "owner": "facebookresearch",
+            "repo": "omnivore",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning (2023) CVPR 2023 Rui Wang, Dongdong Chen, Zuxuan Wu, Yinpeng Chen, Xiyang Dai, Mengchen Liu, Lu Yuan, Yu-Gang Jiang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575730050,
+            "language": "Python",
+            "last_commit": "2023-05-21T03:01:44Z",
+            "owner": "ruiwang2021",
+            "repo": "mvd",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Test-Time Adaptation for Action Recognition (2023) CVPR 2023 Wei Lin, Muhammad Jehanzeb Mirza, Mateusz Kozinski, Horst Possegger, Hilde Kuehne, and Horst Bischof [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569332830,
+            "language": "Python",
+            "last_commit": "2024-10-13T11:09:45Z",
+            "owner": "wlin-at",
+            "repo": "ViTTA",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masked Motion Encoding for Self-Supervised Video Representation Learning (2023) CVPR 2023 Xinyu Sun, Peihao Chen, Liangwei Chen, Thomas H. Li, Mingkui Tan, Chuang Gan [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 562717197,
+            "language": "Python",
+            "last_commit": "2023-12-08T11:28:47Z",
+            "owner": "XinyuSun",
+            "repo": "MME",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Representational Invariances for Data-Efficient Action Recognition (2023) Computer Vision and Image Understanding 2023 Yuliang Zou, Jinwoo Choi, Qitong Wang, Jia-Bin Huang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352920339,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-26T13:49:53Z",
+            "owner": "vt-vl-lab",
+            "repo": "video-data-aug",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGMAE: Motion Guided Masking for Video Masked Autoencoding (2023) ICCV 2023 Bingkun Huang, Zhiyu Zhao, Guozhen Zhang, Yu Qiao, Limin Wang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681425047,
+            "language": "Python",
+            "last_commit": "2023-10-16T06:54:18Z",
+            "owner": "MCG-NJU",
+            "repo": "MGMAE",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition (2023) CVPR 2023 Ishan Rajendrakumar Dave, Mamshad Nayeem Rizve, Chen Chen, Mubarak Shah [Paper]",
+          "description": "[Code] [Project Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616111656,
+            "language": "Python",
+            "last_commit": "2023-07-17T08:18:26Z",
+            "owner": "DAVEISHAN",
+            "repo": "TimeBalance",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomE: Homography-Equivariant Video Representation Learning (2023) arXiv / Preprint Anirudh Sriram, Adrien Gaidon, Jiajun Wu, Juan Carlos Niebles, Li Fei-Fei, and Ehsan Adeli [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 648501410,
+            "language": null,
+            "last_commit": "2023-06-02T06:20:58Z",
+            "owner": "anirudhs123",
+            "repo": "HomE",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised motion perception for spatiotemporal representation learning (2023) IEEE Transactions on Neural Networks and Learning Systems 2023 Chang Liu, Yuan Yao, Dezhao Luo, Yu Zhou, Qixiang Ye [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326386847,
+            "language": "Python",
+            "last_commit": "2022-01-21T11:51:57Z",
+            "owner": "yuanyao366",
+            "repo": "SMP",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2023"
     },
     {
-      "description": "Major families include contrastive and non-contrastive representation learning, masked video autoencoding and masked feature modeling, predictive and JEPA-style learning, motion-aware objectives, audio-visual or video-language self-supervision, temporal-order and transformation prediction, and fine-grained correspondence learning.",
-      "items": [],
-      "title": "What are the main families of VideoSSL methods?"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contextualized spatio-temporal contrastive learning with self-supervision (2022) CVPR 2022 Liangzhe Yuan, Rui Qian, Yin Cui, Boqing Gong,Florian Schroff,Ming-Hsuan Yang, Hartwig Adam, Ting Liu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51117837,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:06:28Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On temporal granularity in self-supervised video representation learning (2022) BMVC 2022 Rui Qian, Yeqing Li, Liangzhe Yuan, Boqing Gong, Ting Liu, Matthew Brown, Serge Belongie, Ming-Hsuan Yang, Hartwig Adam, and Yin Cui [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51117837,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:06:28Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InternVideo: General Video Foundation Models via Generative and Discriminative Learning (2022) arXiv / Preprint Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zhang,Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu,Yali Wang, Limin Wang, Yu Qiao [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569713120,
+            "language": "Python",
+            "last_commit": "2026-07-02T03:20:41Z",
+            "owner": "OpenGVLab",
+            "repo": "InternVideo",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoMAE: Masked Autoencoders Are Data-Efficient Learners for Self-Supervised Video Pre-Training (2022) NeurIPS 2022 Zhan Tong, Yibing Song, Jue Wang, Limin Wang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473059611,
+            "language": "Python",
+            "last_commit": "2023-12-08T13:44:48Z",
+            "owner": "MCG-NJU",
+            "repo": "VideoMAE",
+            "stars": 1782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning (2022) CVPR 2022 Minghao Chen, Fangyun Wei, Chong Li, Deng Cai [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 441066742,
+            "language": "Python",
+            "last_commit": "2023-05-19T22:10:22Z",
+            "owner": "minghchen",
+            "repo": "CARL_code",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motion-aware contrastive video representation learning via foreground-background merging (2022) CVPR 2022 Shuangrui Ding, Maomao Li, Tianyu Yang, Rui Qian, Haohang Xu, Qingyi Chen, Jue Wang, Hongkai Xiong [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468834417,
+            "language": "Python",
+            "last_commit": "2023-09-30T16:06:53Z",
+            "owner": "Mark12Ding",
+            "repo": "FAME",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised video representation learning by uncovering spatio-temporal statistics (2022) IEEE Transactions on Pattern Analysis and Machine Intelligence 2022 Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Wei Liu, Yun-hui Liu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262689178,
+            "language": "Python",
+            "last_commit": "2021-02-09T03:01:49Z",
+            "owner": "laura-wang",
+            "repo": "video_repres_sts",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCLR: Temporal contrastive learning for video representation (2022) Computer Vision and Image Understanding 2022 Ishan Dave, Rohit Gupta, Mamshad Nayeem Rizve, Mubarak Shah [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445563206,
+            "language": "Python",
+            "last_commit": "2024-02-28T21:33:07Z",
+            "owner": "DAVEISHAN",
+            "repo": "TCLR",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised video representation learning with cross-stream prototypical contrasting (2022) WACV 2022 Martine Toering, Ioannis Gatopoulos, Maarten Stol, Vincent Tao Hu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377610166,
+            "language": "Python",
+            "last_commit": "2022-08-16T12:19:27Z",
+            "owner": "martinetoering",
+            "repo": "ViCC",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Self-supervised Learning for Video Understanding (2022) ECCV 2022 Yasar Abbas Ur Rehman, Yan Gao, Jiajun Shen, Pedro Porto Buarque de Gusmão , Nicholas Lane [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510383633,
+            "language": "Python",
+            "last_commit": "2023-12-19T02:14:37Z",
+            "owner": "yasar-rehman",
+            "repo": "FEDVSSL",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCGL: Temporal Contrastive Graph for Self-Supervised Video Representation Learning (2022) IEEE Transactions on Image Processing 2022 Yang Liu , Keze Wang , Lingbo Liu , Haoyuan Lan, and Liang Lin [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320449638,
+            "language": "Python",
+            "last_commit": "2023-12-19T07:13:26Z",
+            "owner": "YangLiu9208",
+            "repo": "TCGL",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPAct: Self-supervised Privacy Preservation for Action Recognition (2022) CVPR 2022 Ishan Rajendrakumar Dave, Chen Chen, Mubarak Shah [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 474478858,
+            "language": "Python",
+            "last_commit": "2022-06-05T08:53:57Z",
+            "owner": "DAVEISHAN",
+            "repo": "SPAct",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transrank: Self-supervised video representation learning via ranking-based transformation recognition (2022) CVPR 2022 Haodong Duan, Nanxuan Zhao, Kai Chen, Dahua Lin [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 485830242,
+            "language": null,
+            "last_commit": "2022-08-01T02:22:12Z",
+            "owner": "kennymckormick",
+            "repo": "TransRank",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contrastive spatio-temporal pretext learning for self-supervised video representation (2022) AAAI 2022 Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, Yuzhi Zhao, Wing-Yin Yu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438553744,
+            "language": "Python",
+            "last_commit": "2022-05-05T06:49:45Z",
+            "owner": "KT27-A",
+            "repo": "CSTP",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suppressing Static Visual Cues via Normalizing Flows for Self-Supervised Video Representation Learning (2022) AAAI 2022 Manlin Zhang, Jinpeng Wang, Andy J. Ma [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 434129770,
+            "language": "Python",
+            "last_commit": "2021-12-07T16:33:24Z",
+            "owner": "mettyz",
+            "repo": "SSVC",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOCA: guided online cluster assignment for self-supervised video representation Learning (2022) ECCV 2022 Huseyin Coskun, Alireza Zareian, Joshua L. Moore, Federico Tombari, Chen Wang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516894583,
+            "language": "Python",
+            "last_commit": "2022-08-29T02:29:04Z",
+            "owner": "Seleucia",
+            "repo": "goca",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Video Representation Learning with Cascade Positive Retrieval (2022) CVPR Workshops 2022 Cheng-En Wu, Farley Lai, Yu Hen Hu, Asim Kadav [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443020873,
+            "language": "Python",
+            "last_commit": "2022-04-22T05:30:08Z",
+            "owner": "necla-ml",
+            "repo": "CPR",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contrastive predictive coding with transformer for video representation learning (2022) Neurocomputing 2022 Yue Liu, Junqi Ma, Yufei Xie, Xuefeng Yang, Xingzhen Tao, Lin Peng, Wei Gao [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365229423,
+            "language": "Python",
+            "last_commit": "2021-05-27T06:26:05Z",
+            "owner": "yliu1229",
+            "repo": "CPCTR",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auxiliary Learning for Self-Supervised Video Representation via Similarity-based Knowledge Distillation (2022) CVPR Workshops 2022 Amirhossein Dadashzadeh, Alan Whone, Majid Mirmehdi [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468781905,
+            "language": "Python",
+            "last_commit": "2022-06-22T16:36:09Z",
+            "owner": "Plrbear",
+            "repo": "auxSKD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAC: Mask-Augmentation for Motion-Aware Video Representation Learning (2022) BMVC 2022 Arif Akar, Ufuk Umut Senturk, and Nazli Ikizler-Cinbis. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 546813281,
+            "language": "Python",
+            "last_commit": "2022-10-07T20:13:28Z",
+            "owner": "ufukpage",
+            "repo": "MAC_SSL",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spatiotemporal contrastive video representation learning (2021) CVPR 2021 Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51117837,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:06:28Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VATT: Transformers for multimodal self-supervised learning from raw video, audio and text (2021) NeurIPS 2021 Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-16T18:45:46Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A large-scale study on unsupervised spatiotemporal representation learning (2021) CVPR 2021 Christoph Feichtenhofer, Haoqi Fan, Bo Xiong, Ross Girshick, Kaiming He [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203465734,
+            "language": "Python",
+            "last_commit": "2026-03-16T11:07:10Z",
+            "owner": "facebookresearch",
+            "repo": "SlowFast",
+            "stars": 7408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video contrastive learning with global context (2021) ICCV Workshops 2021 Haofei Kuang, Yi Zhu, Zhi Zhang, Xinyu Li, Joseph Tighe,Soren Schwertfeger, Cyrill Stachniss, Mu Li [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390864670,
+            "language": "Python",
+            "last_commit": "2022-05-30T16:01:15Z",
+            "owner": "amazon-science",
+            "repo": "video-contrastive-learning",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples (2021) CVPR 2021 Tian Pan, Yibing Song, Tianyu Yang, Wenhao Jiang, Wei Liu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344359351,
+            "language": "Python",
+            "last_commit": "2021-08-18T05:59:08Z",
+            "owner": "tinapan-pt",
+            "repo": "VideoMoCo",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio-visual instance discrimination with cross-modal agreement (2021) CVPR 2021 Pedro Morgado, Nuno Vasconcelos, Ishan Misra [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 248046513,
+            "language": "Python",
+            "last_commit": "2021-08-13T12:18:49Z",
+            "owner": "facebookresearch",
+            "repo": "AVID-CMA",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Removing the background by adding the background: Towards background robust self-supervised video representation learning (2021) CVPR 2021 Jinpeng Wang, Yuting Gao, Ke Li, Yiqi Lin, Andy J. Ma, Hao Cheng, Pai Peng, Feiyue Huang, Rongrong Ji, Xing Sun [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344740082,
+            "language": "Python",
+            "last_commit": "2021-03-27T12:57:13Z",
+            "owner": "FingerRec",
+            "repo": "BE",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing unsupervised video representation learning by decoupling the scene and the motion (2021) AAAI 2021 Jinpeng Wang, Yuting Gao, Ke Li, Jianguo Hu, Xinyang Jiang, Xiaowei Guo, Rongrong Ji, Xing Sun [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318528162,
+            "language": "Python",
+            "last_commit": "2023-03-29T02:30:47Z",
+            "owner": "FingerRec",
+            "repo": "DSM-decoupling-scene-motion",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporally coherent embeddings for self-supervised video representation learning (2021) ICPR 2020 Joshua Knights, Ben Harwood, Daniel Ward, Anthony Vanderkop, Olivia Mackenzie-Ross, Peyman Moghadam [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258044229,
+            "language": "Python",
+            "last_commit": "2021-03-16T04:20:23Z",
+            "owner": "csiro-robotics",
+            "repo": "TCE",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Broaden your views for self-supervised video learning (2021) ICCV 2021 Adria Recasens, Pauline Luc, Jean-Baptiste Alayrac, Luyu Wang, Ross Hemsley, Florian Strub, Corentin Tallec, Mateusz Malinowski, Viorica Patraucean, Florent Altche, Michal Valko, Jean-Bastien Grill, Aaron van den Oord, Andrew Zisserman [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 417113417,
+            "language": "Python",
+            "last_commit": "2026-07-23T23:04:29Z",
+            "owner": "google-deepmind",
+            "repo": "brave",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On compositions of transformations in contrastive self-supervised learning (2021) ICCV 2021 Mandela Patrick, Yuki M. Asano, Polina Kuznetsova, Ruth Fong, João F. Henriques, Geoffrey Zweig, Andrea Vedaldi [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 383269625,
+            "language": "Python",
+            "last_commit": "2021-08-29T18:26:25Z",
+            "owner": "facebookresearch",
+            "repo": "GDT",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised visual representation learning by tracking patches in video (2021) CVPR 2021 Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 356200299,
+            "language": "Python",
+            "last_commit": "2021-04-30T09:23:44Z",
+            "owner": "microsoft",
+            "repo": "CtP",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning (2021) AAAI 2021 Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, Chuang Gan [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319488122,
+            "language": "Python",
+            "last_commit": "2021-11-05T09:34:52Z",
+            "owner": "PeihaoChen",
+            "repo": "RSPNet",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeCo: Exploring Sequence Supervision for Unsupervised Representation Learning (2021) AAAI 2021 Ting Yao, Yiheng Zhang, Zhaofan Qiu, Yingwei Pan, Tao Mei [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321307210,
+            "language": "Python",
+            "last_commit": "2021-06-18T02:35:32Z",
+            "owner": "YihengZhang-CV",
+            "repo": "SeCo-Sequence-Contrastive-Learning",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoCon: Cooperative-Contrastive Learning (2021) CVPR 2021 Nishant Rai, Ehsan Adeli ,Kuan-Hui Lee, Adrien Gaidon, Juan Carlos Niebles [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299469985,
+            "language": "Python",
+            "last_commit": "2022-11-05T09:19:16Z",
+            "owner": "nishantrai18",
+            "repo": "cocon",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motion-focused contrastive learning of video representations (2021) ICCV 2021 Rui Li, Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, and Tao Mei [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 410825529,
+            "language": "Python",
+            "last_commit": "2022-01-11T14:25:34Z",
+            "owner": "YihengZhang-CV",
+            "repo": "MCL-Motion-Focused-Contrastive-Learning",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing self-supervised video representation learning via multi-level feature optimization (2021) ICCV 2021 Rui Qian, Yuxi Li, Huabin Liu, John See, Shuangrui Ding, Xian Liu, Dian Li, Weiyao Lin [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397114151,
+            "language": "Python",
+            "last_commit": "2021-09-28T16:47:49Z",
+            "owner": "shvdiwnkozbw",
+            "repo": "Video-Representation-via-Multi-level-Optimization",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back to the Future: Cycle Encoding Prediction for Self-supervised Video Representation Learning (2021) BMVC 2021 Xinyu Yang, Majid Mirmehdi,Tilo Burghardt [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297896911,
+            "language": "Python",
+            "last_commit": "2022-05-23T16:43:07Z",
+            "owner": "youshyee",
+            "repo": "CEP",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised visual learning by variable playback speeds prediction of a video (2021) IEEE Access 2021 Hyeon Cho, Taehoon Kim, Hyungjin Chang, Wonjun Hwang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246511913,
+            "language": null,
+            "last_commit": "2020-03-11T08:48:50Z",
+            "owner": "hyeon-jo",
+            "repo": "PSPNet",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AudioVisual SlowFast Networks for Video Recognition (2020) arXiv / Preprint Fanyi Xiao, Yong Jae Lee, Kristen Grauman, Jitendra Malik, Christoph Feichtenhofer [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203465734,
+            "language": "Python",
+            "last_commit": "2026-03-16T11:07:10Z",
+            "owner": "facebookresearch",
+            "repo": "SlowFast",
+            "stars": 7408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contrastive multiview coding (2020) ECCV 2020 Yonglong Tian, Dilip Krishnan, Phillip Isola [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191742506,
+            "language": "Python",
+            "last_commit": "2020-11-10T07:33:17Z",
+            "owner": "HobbitLong",
+            "repo": "CMC",
+            "stars": 1340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised co-training for video representation learning (2020) NeurIPS 2020 Tengda Han, Weidi Xie, Andrew Zisserman [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300868514,
+            "language": "Python",
+            "last_commit": "2021-10-10T20:04:42Z",
+            "owner": "TengdaHan",
+            "repo": "CoCLR",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "End-to-end learning of visual representations from uncurated instructional videos (2020) CVPR 2020 Antoine Miech, Jean-Baptiste Alayrac, Lucas Smaira,Ivan Laptev, Josef Sivic, Andrew Zisserman [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269651346,
+            "language": "Python",
+            "last_commit": "2022-07-05T20:59:22Z",
+            "owner": "antoine77340",
+            "repo": "MIL-NCE_HowTo100M",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memory-augmented dense predictive coding for video representation learning (2020) ECCV 2020 Tengda Han, Weidi Xie, Andrew Zisserman [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 284273227,
+            "language": "Python",
+            "last_commit": "2021-04-29T01:46:57Z",
+            "owner": "TengdaHan",
+            "repo": "MemDPC",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised video representation learning using inter-intra contrastive framework (2020) ACM Multimedia 2020 Li Tao, Xueting Wang, Toshihiko Yamasaki [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285502590,
+            "language": "Python",
+            "last_commit": "2021-03-22T01:51:17Z",
+            "owner": "BestJuly",
+            "repo": "IIC",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised video representation learning by pace prediction (2020) ECCV 2020 Jiangliu Wang, Jianbo Jiao, Yun-Hui Liu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278782945,
+            "language": "Python",
+            "last_commit": "2021-05-13T21:35:03Z",
+            "owner": "laura-wang",
+            "repo": "video-pace",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised learning by cross-modal audio-video clustering (2020) NeurIPS 2020 Humam Alwassel, Dhruv Mahajan, Bruno Korbar ,Lorenzo Torresani, Bernard Ghanem, Du Tran [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318009324,
+            "language": "Python",
+            "last_commit": "2022-10-24T17:18:51Z",
+            "owner": "HumamAlwassel",
+            "repo": "XDC",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised learning from video with deep neural embeddings (2020) CVPR 2020 Chengxu Zhuang, Tianwei She, Alex Andonian, Max Sobol Mark, Daniel Yamins [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246231563,
+            "language": "Python",
+            "last_commit": "2021-06-07T20:01:32Z",
+            "owner": "neuroailab",
+            "repo": "VIE",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised temporal discriminative learning for video representation learning (2020) arXiv / Preprint Jinpeng Wang, Yiqi Lin, Andy J. Ma,Pong C. Yuen [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277030962,
+            "language": "Python",
+            "last_commit": "2020-09-19T03:21:00Z",
+            "owner": "FingerRec",
+            "repo": "Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video representation learning by recognizing temporal transformations (2020) ECCV 2020 Simon Jenni, Givi Meishvili, Paolo Favaro [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279964858,
+            "language": "Python",
+            "last_commit": "2021-03-18T09:48:17Z",
+            "owner": "sjenni",
+            "repo": "temporal-ssl",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video playback rate perception for self-supervised spatio-temporal representation learning (2020) CVPR 2020 Yuan Yao, Chang Liu, Dezhao Luo, Yu Zhou, Qixiang Ye [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246869597,
+            "language": "Python",
+            "last_commit": "2022-05-07T09:16:36Z",
+            "owner": "yuanyao366",
+            "repo": "PRP",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video representation learning with visual tempo consistency (2020) arXiv / Preprint Ceyuan Yang, Yinghao Xu, Bo Dai, Bolei Zhou [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270563296,
+            "language": null,
+            "last_commit": "2020-06-30T02:37:03Z",
+            "owner": "decisionforce",
+            "repo": "VTHCL",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised learning of video representations via dense trajectory clustering (2020) ECCV Workshops 2020 Pavel Tokmakov, Martial Hebert, Cordelia Schmid [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275604568,
+            "language": "Python",
+            "last_commit": "2020-07-29T00:34:02Z",
+            "owner": "pvtokmakov",
+            "repo": "video_cluster",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretext-Contrastive Learning: Toward Good Practices in Self-Supervised Video Representation Learning (2020) arXiv / Preprint Li Tao, Xueting Wang, Toshihiko Yamasaki [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345029192,
+            "language": "Python",
+            "last_commit": "2021-12-16T13:43:50Z",
+            "owner": "BestJuly",
+            "repo": "Pretext-Contrastive-Learning",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video cloze procedure for self-supervised spatio-temporal learning (2020) AAAI 2020 Dezhao Luo, Chang Liu, Yu Zhou, Dongbao Yang, Can Ma, Qixiang Ye, Weiping Wang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275288967,
+            "language": "Python",
+            "last_commit": "2020-07-29T05:08:00Z",
+            "owner": "BestJuly",
+            "repo": "VCP",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Video representation learning by dense predictive coding (2019) ICCV Workshops 2019 Tengda Han, Weidi Xie, Andrew Zisserman [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193752903,
+            "language": "Python",
+            "last_commit": "2021-10-08T20:30:32Z",
+            "owner": "TengdaHan",
+            "repo": "DPC",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised spatiotemporal learning via video clip order prediction (2019) CVPR 2019 Dejing Xu, Jun Xiao, Zhou Zhao, Jian Shao, Di Xie, Yueting Zhuang [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187496882,
+            "language": "Python",
+            "last_commit": "2023-07-22T06:07:43Z",
+            "owner": "xudejing",
+            "repo": "video-clip-order-prediction",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised spatio-temporal representation learning for videos by predicting motion and appearance statistics (2019) CVPR 2019 Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Yunhui Liu, Wei Liu [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179447140,
+            "language": "Python",
+            "last_commit": "2021-02-09T03:01:57Z",
+            "owner": "laura-wang",
+            "repo": "video_repres_mas",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "2019"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:01:45.840Z",
+    "last_updated": "2026-08-19T12:56:27.032Z",
     "original_repository": "Malitha123/awesome-video-self-supervised-learning",
+    "original_repository_id": 623570897,
     "original_repository_sha": "d509099469363877656c074978c9245bd06c0fb2",
     "enhanced_repository": "enhansome/enhansome-video-self-supervised-learning",
     "enhanced_repository_description": null,
