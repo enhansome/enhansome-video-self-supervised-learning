@@ -66,7 +66,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4484
+            "stars": 4486
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4484
+            "stars": 4486
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77651
+            "stars": 77650
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77651
+            "stars": 77650
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77651
+            "stars": 77650
           }
         },
         {
@@ -858,10 +858,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T18:45:46Z",
+            "last_commit": "2026-08-19T20:48:11Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38579
+            "stars": 38581
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "last_commit": "2021-02-09T03:01:57Z",
             "owner": "laura-wang",
             "repo": "video_repres_mas",
-            "stars": 62
+            "stars": 61
           }
         }
       ],
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:27.032Z",
+    "last_updated": "2026-08-20T06:02:29.063Z",
     "original_repository": "Malitha123/awesome-video-self-supervised-learning",
     "original_repository_id": 623570897,
     "original_repository_sha": "d509099469363877656c074978c9245bd06c0fb2",
