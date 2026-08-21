@@ -66,7 +66,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4486
+            "stars": 4490
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-20T02:08:18Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "OneVision-Encoder",
-            "stars": 397
+            "stars": 396
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4486
+            "stars": 4490
           }
         },
         {
@@ -537,10 +537,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
+            "last_commit": "2026-08-21T05:54:38Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77646
           }
         },
         {
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
+            "last_commit": "2026-08-21T05:54:38Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77646
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-07-02T03:20:41Z",
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2361
+            "stars": 2364
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-12-08T13:44:48Z",
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1782
+            "stars": 1781
           }
         },
         {
@@ -843,10 +843,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
+            "last_commit": "2026-08-21T05:54:38Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77646
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-08-19T20:48:11Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38581
+            "stars": 38592
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7408
+            "stars": 7409
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7408
+            "stars": 7409
           }
         },
         {
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:02:29.063Z",
+    "last_updated": "2026-08-21T06:03:42.267Z",
     "original_repository": "Malitha123/awesome-video-self-supervised-learning",
     "original_repository_id": 623570897,
     "original_repository_sha": "d509099469363877656c074978c9245bd06c0fb2",
