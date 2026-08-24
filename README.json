@@ -66,7 +66,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4504
+            "stars": 4506
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4504
+            "stars": 4506
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-12-08T13:44:48Z",
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1784
+            "stars": 1783
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38608
+            "stars": 38611
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7408
+            "stars": 7409
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7408
+            "stars": 7409
           }
         },
         {
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:23:44.752Z",
+    "last_updated": "2026-08-24T14:33:13.000Z",
     "original_repository": "Malitha123/awesome-video-self-supervised-learning",
     "original_repository_id": 623570897,
     "original_repository_sha": "2bf37e9b28dfeb22d23de1ddeafbc9916212ec62",
