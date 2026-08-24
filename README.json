@@ -66,7 +66,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4500
+            "stars": 4504
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4500
+            "stars": 4504
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-07-02T03:20:41Z",
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2365
+            "stars": 2366
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-12-08T13:44:48Z",
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38602
+            "stars": 38608
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7407
+            "stars": 7408
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7407
+            "stars": 7408
           }
         },
         {
@@ -1421,10 +1421,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:01:33.003Z",
+    "last_updated": "2026-08-24T06:23:44.752Z",
     "original_repository": "Malitha123/awesome-video-self-supervised-learning",
     "original_repository_id": 623570897,
-    "original_repository_sha": "d509099469363877656c074978c9245bd06c0fb2",
+    "original_repository_sha": "2bf37e9b28dfeb22d23de1ddeafbc9916212ec62",
     "enhanced_repository": "enhansome/enhansome-video-self-supervised-learning",
     "enhanced_repository_description": null,
     "title": "Awesome Surveys with stars"
