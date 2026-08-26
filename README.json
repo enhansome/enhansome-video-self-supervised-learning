@@ -66,7 +66,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4510
+            "stars": 4521
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4510
+            "stars": 4521
           }
         },
         {
@@ -537,10 +537,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77652
           }
         },
         {
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77652
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-12-08T13:44:48Z",
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -843,10 +843,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77652
           }
         },
         {
@@ -858,10 +858,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38621
           }
         },
         {
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:31.612Z",
+    "last_updated": "2026-08-26T06:05:10.347Z",
     "original_repository": "Malitha123/awesome-video-self-supervised-learning",
     "original_repository_id": 623570897,
     "original_repository_sha": "2bf37e9b28dfeb22d23de1ddeafbc9916212ec62",
