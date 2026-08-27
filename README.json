@@ -66,7 +66,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4521
+            "stars": 4532
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-20T02:08:18Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "OneVision-Encoder",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-23T10:13:05Z",
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4521
+            "stars": 4532
           }
         },
         {
@@ -537,10 +537,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-12-08T13:44:48Z",
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1784
+            "stars": 1786
           }
         },
         {
@@ -843,10 +843,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -858,10 +858,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38621
+            "stars": 38630
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7410
+            "stars": 7411
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7410
+            "stars": 7411
           }
         },
         {
@@ -1421,9 +1421,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:05:10.347Z",
-    "original_repository": "Malitha123/awesome-video-self-supervised-learning",
-    "original_repository_id": 623570897,
+    "last_updated": "2026-08-27T12:11:33.946Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 623570897,
+      "language": "HTML",
+      "last_commit": "2026-08-23T22:08:23Z",
+      "owner": "Malitha123",
+      "repo": "awesome-video-self-supervised-learning",
+      "stars": 173
+    },
     "original_repository_sha": "2bf37e9b28dfeb22d23de1ddeafbc9916212ec62",
     "enhanced_repository": "enhansome/enhansome-video-self-supervised-learning",
     "enhanced_repository_description": null,
