@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 509868847,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-31T08:59:14Z",
+            "open_issues": 0,
             "owner": "fmthoker",
             "repo": "SEVERE-BENCHMARK",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -26,12 +31,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 616849686,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-25T05:54:41Z",
+            "open_issues": 0,
             "owner": "Malitha123",
             "repo": "Model_Eval",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "action-recognition",
+              "benchmark",
+              "cnn",
+              "contacts",
+              "epick-kitchens-100",
+              "evaluation",
+              "self-supervised-learning",
+              "something-something-v2",
+              "videos"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 960333388,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-04T08:55:24Z",
+            "open_issues": 0,
             "owner": "fmthoker",
             "repo": "SEVERE-BENCHMARK-plus-plus",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -64,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code and models for VJEPA2 self-supervised learning from video.",
+            "homepage": null,
             "id": 972931464,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T10:13:05Z",
+            "open_issues": 87,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4541
+            "stars": 4540,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -80,12 +110,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence",
+            "homepage": "https://lmms-lab.com/onevision-encoder/index.html",
             "id": 1120863872,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-20T02:08:18Z",
+            "open_issues": 16,
             "owner": "EvolvingLMMs-Lab",
             "repo": "OneVision-Encoder",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "llava",
+              "lmms",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -96,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Learning of Structured Dynamics from Videos",
+            "homepage": "https://arxiv.org/abs/2607.21576",
             "id": 1276908638,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-24T07:34:39Z",
+            "open_issues": 0,
             "owner": "lukasknobel",
             "repo": "StructuredDynamics",
-            "stars": 19
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -112,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] PyTorch implementation of Co-Settle, introduced in \"From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning\".",
+            "homepage": null,
             "id": 1169129628,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T07:30:01Z",
+            "open_issues": 0,
             "owner": "yafeng19",
             "repo": "Co-Settle",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -128,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] Original PyTorch implementation of \"TrackMAE: Video Representation Learning via Track Mask and Predict\"",
+            "homepage": null,
             "id": 1194531031,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-05T16:50:14Z",
+            "open_issues": 1,
             "owner": "rvandeghen",
             "repo": "TrackMAE",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -144,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"TrAction: Action Recognition with Sparse Trajectories\"",
+            "homepage": null,
             "id": 1255908309,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-01T09:30:34Z",
+            "open_issues": 0,
             "owner": "ecker-lab",
             "repo": "TrAction",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -160,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1240794315,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-16T17:06:34Z",
+            "open_issues": 0,
             "owner": "santoshpremi",
             "repo": "Factorized-Latent-Dynamics-for-Video-JEPA-An-Empirical-Study-of-Auxiliary-Objectives",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -176,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluation Codebase for Depth-Wise Representation Development Under Blockwise Self-Supervised Learning for Video Vision Transformers",
+            "homepage": null,
             "id": 1131785121,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-01-15T12:40:54Z",
+            "open_issues": 0,
             "owner": "JosRor",
             "repo": "BWSSL-for-Video-ViTs",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -198,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code and models for VJEPA2 self-supervised learning from video.",
+            "homepage": null,
             "id": 972931464,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T10:13:05Z",
+            "open_issues": 87,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4541
+            "stars": 4540,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -214,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for our CVPR 2025 paper \"SMILE 😊 : Infusing Spatial and Motion Semantics in Masked Video Learning\"",
+            "homepage": null,
             "id": 945844824,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-17T12:09:13Z",
+            "open_issues": 1,
             "owner": "fmthoker",
             "repo": "SMILE",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -230,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the PyTorch implementation of our work at CVPR 2025",
+            "homepage": null,
             "id": 940498688,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-08T15:56:57Z",
+            "open_issues": 1,
             "owner": "EliSpectre",
             "repo": "CVPR25-AutoSSVH",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -246,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 921490485,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-27T07:41:24Z",
+            "open_issues": 0,
             "owner": "JingwWu",
             "repo": "advise-video-ssl",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -268,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for the paper: MAR: Masked Autoencoders for Efficient Action Recognition",
+            "homepage": null,
             "id": 568713742,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-07T04:01:16Z",
+            "open_issues": 3,
             "owner": "alibaba-mmai-research",
             "repo": "Masked-Action-Recognition",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -284,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2024] Official implementation of the paper \"Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning\"",
+            "homepage": "https://yibingwei-1.github.io/projects/lmim/lmim.html",
             "id": 827542749,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-05T06:35:49Z",
+            "open_issues": 2,
             "owner": "yibingwei-1",
             "repo": "LatentMIM",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -300,12 +399,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens [ICML2024].",
+            "homepage": "https://arxiv.org/abs/2211.10636",
             "id": 580418842,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-15T15:42:04Z",
+            "open_issues": 4,
             "owner": "sunilhoho",
             "repo": "EVEREST",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "masked-autoencoder",
+              "representation-learning",
+              "self-supervised-learning",
+              "video-learning",
+              "video-representation-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -316,12 +426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Video Representation Learning with Motion-Aware Masked Autoencoders",
+            "homepage": null,
             "id": 547162819,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-22T12:27:16Z",
+            "open_issues": 2,
             "owner": "happy-hsy",
             "repo": "MotionMAE",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -332,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper titled, \"Learning to Predict Task Progress by Self-Supervised Video Alignment\" by Gerard Donahue and Ehsan Elhamifar, published at CVPR 2024. ",
+            "homepage": null,
             "id": 772133387,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-26T17:34:37Z",
+            "open_issues": 2,
             "owner": "gerardDonahue",
             "repo": "GTCC_CVPR2024",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -348,12 +468,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2024] XKD: Cross-modal Knowledge Distillation with Domain Alignment for Video Representation Learning.",
+            "homepage": "http://pritamsarkar.com/XKD/",
             "id": 570396423,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-09T21:52:55Z",
+            "open_issues": 1,
             "owner": "pritamqu",
             "repo": "XKD",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "hmdb51",
+              "kinetics400",
+              "self-supervised-learning",
+              "ucf101",
+              "video-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -364,12 +495,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Menagerie of video models trained on various video datasets ",
+            "homepage": null,
             "id": 749650664,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-13T20:58:46Z",
+            "open_issues": 0,
             "owner": "eminorhan",
             "repo": "video-models",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "pretrained-models",
+              "representation-learning",
+              "self-supervised-learning",
+              "video-models"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -380,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codebase for ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders.",
+            "homepage": null,
             "id": 742968484,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-06T21:42:10Z",
+            "open_issues": 1,
             "owner": "jeffhernandez1995",
             "repo": "ViC-MAE",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -396,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 624768308,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-08T03:35:46Z",
+            "open_issues": 0,
             "owner": "Hussein-A-Hassan",
             "repo": "RSL-Pretext",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -418,12 +569,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Omnivore: A Single Model for Many Visual Modalities",
+            "homepage": null,
             "id": 449912482,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-12T15:16:35Z",
+            "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "omnivore",
-            "stars": 573
+            "stars": 573,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -434,12 +590,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning (https://arxiv.org/abs/2212.04500)",
+            "homepage": null,
             "id": 575730050,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-21T03:01:44Z",
+            "open_issues": 3,
             "owner": "ruiwang2021",
             "repo": "mvd",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "action-recognition",
+              "cvpr2023",
+              "masked-autoencoder",
+              "self-supervised-learning",
+              "video-representation-learning",
+              "video-understanding",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -450,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video Test-Time Adaptation for Action Recognition (CVPR 2023)",
+            "homepage": null,
             "id": 569332830,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-13T11:09:45Z",
+            "open_issues": 6,
             "owner": "wlin-at",
             "repo": "ViTTA",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -466,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official implementation of CVPR 23 paper \"M3Video: Masked Motion Modeling for Self-Supervised Video Representation Learning\"",
+            "homepage": null,
             "id": 562717197,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-08T11:28:47Z",
+            "open_issues": 3,
             "owner": "XinyuSun",
             "repo": "MME",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -482,12 +661,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Representational Invariances for Data-Efficient Action Recognition",
+            "homepage": null,
             "id": 352920339,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-26T13:49:53Z",
+            "open_issues": 2,
             "owner": "vt-vl-lab",
             "repo": "video-data-aug",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "action-recognition",
+              "data-augmentation",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -498,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] MGMAE: Motion Guided Masking for Video Masked Autoencoding",
+            "homepage": null,
             "id": 681425047,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-16T06:54:18Z",
+            "open_issues": 2,
             "owner": "MCG-NJU",
             "repo": "MGMAE",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -514,12 +707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Placeholder",
+            "homepage": null,
             "id": 616111656,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-17T08:18:26Z",
+            "open_issues": 3,
             "owner": "DAVEISHAN",
             "repo": "TimeBalance",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -530,12 +728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HomE: Homography-Equivariant Video Representation Learning",
+            "homepage": null,
             "id": 648501410,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-02T06:20:58Z",
+            "open_issues": 1,
             "owner": "anirudhs123",
             "repo": "HomE",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -546,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 326386847,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-21T11:51:57Z",
+            "open_issues": 0,
             "owner": "yuanyao366",
             "repo": "SMP",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -568,12 +776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-28T01:33:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -584,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-28T01:33:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -600,12 +818,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV2024] Video Foundation Models & Data for Multimodal Understanding",
+            "homepage": null,
             "id": 569713120,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T03:20:41Z",
+            "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2369
+            "stars": 2369,
+            "topics": [
+              "action-recognition",
+              "benchmark",
+              "contrastive-learning",
+              "foundation-models",
+              "instruction-tuning",
+              "masked-autoencoder",
+              "multimodal",
+              "open-set-recognition",
+              "self-supervised",
+              "spatio-temporal-action-localization",
+              "temporal-action-localization",
+              "video-clip",
+              "video-data",
+              "video-dataset",
+              "video-question-answering",
+              "video-retrieval",
+              "video-understanding",
+              "vision-transformer",
+              "zero-shot-classification",
+              "zero-shot-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -616,12 +860,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+            "homepage": "https://arxiv.org/abs/2203.12602",
             "id": 473059611,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-08T13:44:48Z",
+            "open_issues": 50,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1786
+            "stars": 1786,
+            "topics": [
+              "action-recognition",
+              "mae",
+              "masked-autoencoder",
+              "neurips-2022",
+              "pytorch",
+              "self-supervised-learning",
+              "transformer",
+              "video-analysis",
+              "video-representation-learning",
+              "video-transformer",
+              "video-understanding",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -632,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch code for Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning, CVPR2022.",
+            "homepage": null,
             "id": 441066742,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-19T22:10:22Z",
+            "open_issues": 6,
             "owner": "minghchen",
             "repo": "CARL_code",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -648,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] Code for Motion-aware Contrastive Video Representation Learning via Foreground-background Merging",
+            "homepage": "https://arxiv.org/abs/2109.15130",
             "id": 468834417,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-30T16:06:53Z",
+            "open_issues": 6,
             "owner": "Mark12Ding",
             "repo": "FAME",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -664,12 +936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of  our T-PAMI 2021 paper: Self-supervised Video Representation Learning by Uncovering Motion and Appearance Statistics",
+            "homepage": null,
             "id": 262689178,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-09T03:01:49Z",
+            "open_issues": 3,
             "owner": "laura-wang",
             "repo": "video_repres_sts",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -680,12 +957,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repo for TCLR: Temporal Contrastive Learning for Video Representation [CVIU-2022]",
+            "homepage": null,
             "id": 445563206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-28T21:33:07Z",
+            "open_issues": 1,
             "owner": "DAVEISHAN",
             "repo": "TCLR",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "action-recognition",
+              "learning-with-limited-labeled-data",
+              "pytorch",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -696,12 +983,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV'22] Code repository for the paper \"Self-supervised Video Representation Learning with Cross-Stream Prototypical Contrasting\", https://arxiv.org/abs/2106.10137.",
+            "homepage": null,
             "id": 377610166,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-16T12:19:27Z",
+            "open_issues": 2,
             "owner": "martinetoering",
             "repo": "ViCC",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "action-recognition",
+              "contrastive-learning",
+              "self-supervised-learning",
+              "unsupervised-learning",
+              "video-recognition",
+              "video-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -712,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official impelementation of \"FVSSL Algorithm\"",
+            "homepage": null,
             "id": 510383633,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-19T02:14:37Z",
+            "open_issues": 0,
             "owner": "yasar-rehman",
             "repo": "FEDVSSL",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -728,12 +1032,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IEEE T-IP 2022] TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning ",
+            "homepage": null,
             "id": 320449638,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-19T07:13:26Z",
+            "open_issues": 1,
             "owner": "YangLiu9208",
             "repo": "TCGL",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "action-recognition",
+              "graph",
+              "pretext-task",
+              "self-supervised-learning",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -744,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository for SPAct: Self-supervised Privacy Preservation for Action Recognition [CVPR-2022]",
+            "homepage": null,
             "id": 474478858,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-05T08:53:57Z",
+            "open_issues": 3,
             "owner": "DAVEISHAN",
             "repo": "SPAct",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -760,12 +1080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2022 Oral] The official code for \"TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition\"",
+            "homepage": null,
             "id": 485830242,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-01T02:22:12Z",
+            "open_issues": 5,
             "owner": "kennymckormick",
             "repo": "TransRank",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -776,12 +1101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code for paper \"Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation\" which is accepted by AAAI 2022",
+            "homepage": null,
             "id": 438553744,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-05T06:49:45Z",
+            "open_issues": 1,
             "owner": "KT27-A",
             "repo": "CSTP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -792,12 +1122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI2022] Source code for our paper《Suppressing Static Visual Cues via Normalizing Flows for Self-Supervised Video Representation Learning》",
+            "homepage": null,
             "id": 434129770,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-07T16:33:24Z",
+            "open_issues": 1,
             "owner": "mettyz",
             "repo": "SSVC",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -808,12 +1143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 516894583,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-29T02:29:04Z",
+            "open_issues": 1,
             "owner": "Seleucia",
             "repo": "goca",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -824,12 +1164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for Self-supervised Video Representation Learning with Cascade Positive Retrieval",
+            "homepage": null,
             "id": 443020873,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-04-22T05:30:08Z",
+            "open_issues": 0,
             "owner": "necla-ml",
             "repo": "CPR",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -840,12 +1185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python code for the Contrastive Predictive Coding with Transformer model, coded in PyTorch.",
+            "homepage": null,
             "id": 365229423,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-27T06:26:05Z",
+            "open_issues": 0,
             "owner": "yliu1229",
             "repo": "CPCTR",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -856,12 +1206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 468781905,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-22T16:36:09Z",
+            "open_issues": 1,
             "owner": "Plrbear",
             "repo": "auxSKD",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -872,12 +1227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 546813281,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-07T20:13:28Z",
+            "open_issues": 0,
             "owner": "ufukpage",
             "repo": "MAC_SSL",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -894,12 +1254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-28T01:33:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -910,12 +1275,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38641
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -926,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+            "homepage": null,
             "id": 203465734,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T11:07:10Z",
+            "open_issues": 444,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7411
+            "stars": 7411,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -942,12 +1321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video Contrastive Learning with Global Context, ICCVW 2021",
+            "homepage": null,
             "id": 390864670,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-30T16:01:15Z",
+            "open_issues": 3,
             "owner": "amazon-science",
             "repo": "video-contrastive-learning",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "computer-vision",
+              "contrastive-learning",
+              "iccv-2021",
+              "self-supervised-learning",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -958,12 +1348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official pytorch implementation of paper \"VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples\" (CVPR 2021).",
+            "homepage": null,
             "id": 344359351,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-18T05:59:08Z",
+            "open_issues": 9,
             "owner": "tinapan-pt",
             "repo": "VideoMoCo",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -974,12 +1369,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Audio Visual Instance Discrimination with Cross-Modal Agreement",
+            "homepage": null,
             "id": 248046513,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-13T12:18:49Z",
+            "open_issues": 9,
             "owner": "facebookresearch",
             "repo": "AVID-CMA",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -990,12 +1390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2021] The source code for our paper 《Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning》.",
+            "homepage": null,
             "id": 344740082,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-27T12:57:13Z",
+            "open_issues": 0,
             "owner": "FingerRec",
             "repo": "BE",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1006,12 +1411,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI2021] The source code for our paper 《Enhancing Unsupervised Video Representation Learning by Decoupling the Scene and the Motion》.",
+            "homepage": "https://arxiv.org/abs/2009.05757",
             "id": 318528162,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-29T02:30:47Z",
+            "open_issues": 0,
             "owner": "FingerRec",
             "repo": "DSM-decoupling-scene-motion",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "motion-dominated",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1022,12 +1435,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code implementation used in the paper Temporally Coherent Embeddings for Self-Supervised Video Representation Learning (TCE). ",
+            "homepage": "https://csiro-robotics.github.io/TCE-Webpage/",
             "id": 258044229,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-16T04:20:23Z",
+            "open_issues": 0,
             "owner": "csiro-robotics",
             "repo": "TCE",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "action-recognition",
+              "computer-vision",
+              "contrastive-learning",
+              "contrastive-loss",
+              "deep-learning",
+              "embeddings",
+              "hmdb51",
+              "kinetics-datasets",
+              "metric-learning",
+              "pytorch",
+              "representation-learning",
+              "self-supervised-learning",
+              "tsne-visualisations",
+              "ucf-101"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1038,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JAX implementation of Broaden Your Views for Self-Supervised Video Learning, or BraVe for short.",
+            "homepage": null,
             "id": 417113417,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T23:04:29Z",
+            "open_issues": 4,
             "owner": "google-deepmind",
             "repo": "brave",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1054,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "We present a framework for training multi-modal deep learning models on unlabelled video data by forcing the network to learn invariances to  transformations applied to both the audio and video streams.",
+            "homepage": null,
             "id": 383269625,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-29T18:26:25Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "GDT",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1070,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 356200299,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-30T09:23:44Z",
+            "open_issues": 3,
             "owner": "microsoft",
             "repo": "CtP",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1086,12 +1534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation for AAAI2021 paper (RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning)",
+            "homepage": null,
             "id": 319488122,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-05T09:34:52Z",
+            "open_issues": 1,
             "owner": "PeihaoChen",
             "repo": "RSPNet",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1102,12 +1555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 321307210,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-18T02:35:32Z",
+            "open_issues": 3,
             "owner": "YihengZhang-CV",
             "repo": "SeCo-Sequence-Contrastive-Learning",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1118,12 +1576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoCon: Cooperative Contrastive Learning",
+            "homepage": null,
             "id": 299469985,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-05T09:19:16Z",
+            "open_issues": 1,
             "owner": "nishantrai18",
             "repo": "cocon",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1134,12 +1597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 410825529,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-11T14:25:34Z",
+            "open_issues": 2,
             "owner": "YihengZhang-CV",
             "repo": "MCL-Motion-Focused-Contrastive-Learning",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1150,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization.",
+            "homepage": null,
             "id": 397114151,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-28T16:47:49Z",
+            "open_issues": 0,
             "owner": "shvdiwnkozbw",
             "repo": "Video-Representation-via-Multi-level-Optimization",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1166,12 +1639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of paper Back to the Future: Cycle Encoding Prediction for Self-supervised Contrastive Video Representation Learning ",
+            "homepage": "https://youshyee.github.io/CEP/",
             "id": 297896911,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-23T16:43:07Z",
+            "open_issues": 0,
             "owner": "youshyee",
             "repo": "CEP",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1182,12 +1660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 246511913,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-11T08:48:50Z",
+            "open_issues": 1,
             "owner": "hyeon-jo",
             "repo": "PSPNet",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -1204,12 +1687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+            "homepage": null,
             "id": 203465734,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T11:07:10Z",
+            "open_issues": 444,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7411
+            "stars": 7411,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1220,12 +1708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[arXiv 2019] \"Contrastive Multiview Coding\", also contains implementations for MoCo and InstDis",
+            "homepage": null,
             "id": 191742506,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-11-10T07:33:17Z",
+            "open_issues": 25,
             "owner": "HobbitLong",
             "repo": "CMC",
-            "stars": 1340
+            "stars": 1340,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1236,12 +1729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'20] Self-supervised Co-Training for Video Representation Learning. Tengda Han, Weidi Xie, Andrew Zisserman.",
+            "homepage": null,
             "id": 300868514,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-10T20:04:42Z",
+            "open_issues": 5,
             "owner": "TengdaHan",
             "repo": "CoCLR",
-            "stars": 288
+            "stars": 288,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1252,12 +1750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch GPU distributed training code for MIL-NCE HowTo100M",
+            "homepage": null,
             "id": 269651346,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-05T20:59:22Z",
+            "open_issues": 8,
             "owner": "antoine77340",
             "repo": "MIL-NCE_HowTo100M",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1268,12 +1771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'20 Spotlight] Memory-augmented Dense Predictive Coding for Video Representation Learning. Tengda Han, Weidi Xie, Andrew Zisserman.",
+            "homepage": null,
             "id": 284273227,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-29T01:46:57Z",
+            "open_issues": 1,
             "owner": "TengdaHan",
             "repo": "MemDPC",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1284,12 +1792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of ACMMM'20 paper 'Self-supervised Video Representation Learning Using Inter-intra Contrastive Framework'",
+            "homepage": null,
             "id": 285502590,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-22T01:51:17Z",
+            "open_issues": 2,
             "owner": "BestJuly",
             "repo": "IIC",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1300,12 +1813,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for our ECCV-2020 paper: Self-supervised Video Representation Learning by Pace Prediction",
+            "homepage": null,
             "id": 278782945,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-13T21:35:03Z",
+            "open_issues": 5,
             "owner": "laura-wang",
             "repo": "video-pace",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "eccv",
+              "pace-prediction",
+              "self-supervised-learning",
+              "video-pace"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1316,12 +1839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Learning by Cross-Modal Audio-Video Clustering (NeurIPS 2020)",
+            "homepage": "http://humamalwassel.com/publication/xdc/",
             "id": 318009324,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-24T17:18:51Z",
+            "open_issues": 0,
             "owner": "HumamAlwassel",
             "repo": "XDC",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1332,12 +1860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for \"Unsupervised Learning from Video with Deep Neural Embeddings\"",
+            "homepage": null,
             "id": 246231563,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-07T20:01:32Z",
+            "open_issues": 9,
             "owner": "neuroailab",
             "repo": "VIE",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1348,12 +1881,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Arxiv2020] The code for our paper 《Self-Supervised Temporal-Discriminative Representation Learning for Video Action Recognition》 https://arxiv.org/abs/2008.02129",
+            "homepage": "https://zhuanlan.zhihu.com/p/176774543",
             "id": 277030962,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-19T03:21:00Z",
+            "open_issues": 0,
             "owner": "FingerRec",
             "repo": "Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "representation-learning",
+              "self-supervised-learning",
+              "unsupervised",
+              "video-action-recognition"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1364,12 +1907,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video Representation Learning by Recognizing Temporal Transformations. In ECCV, 2020.",
+            "homepage": "https://sjenni.github.io/temporal-ssl/",
             "id": 279964858,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-18T09:48:17Z",
+            "open_issues": 3,
             "owner": "sjenni",
             "repo": "temporal-ssl",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "action-recognition",
+              "c3d",
+              "hmdb51",
+              "self-supervised-learning",
+              "tensorflow",
+              "transfer-learning",
+              "ucf101",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1380,12 +1937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 246869597,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-07T09:16:36Z",
+            "open_issues": 3,
             "owner": "yuanyao366",
             "repo": "PRP",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1396,12 +1958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[arXiv 2020] Video Representation Learning with Visual Tempo Consistency",
+            "homepage": "https://arxiv.org/pdf/2006.15489.pdf",
             "id": 270563296,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-30T02:37:03Z",
+            "open_issues": 3,
             "owner": "decisionforce",
             "repo": "VTHCL",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1412,12 +1979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an implementation of the Unsupervised Learning of Video Representations via Dense Trajectory Clustering algorithm.",
+            "homepage": null,
             "id": 275604568,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-29T00:34:02Z",
+            "open_issues": 0,
             "owner": "pvtokmakov",
             "repo": "video_cluster",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1428,12 +2000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codes for paper \"Pretext-Contrastive Learning: Toward Good Practices in Self-supervised Video Representation Leaning\".",
+            "homepage": null,
             "id": 345029192,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-16T13:43:50Z",
+            "open_issues": 3,
             "owner": "BestJuly",
             "repo": "Pretext-Contrastive-Learning",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1444,12 +2021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial implement of \"Video cloze procedure for self-supervised spatio-temporal learning\" [AAAI20]",
+            "homepage": null,
             "id": 275288967,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-29T05:08:00Z",
+            "open_issues": 1,
             "owner": "BestJuly",
             "repo": "VCP",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -1466,12 +2048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video Representation Learning by Dense Predictive Coding. Tengda Han, Weidi Xie, Andrew Zisserman.",
+            "homepage": null,
             "id": 193752903,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-08T20:30:32Z",
+            "open_issues": 0,
             "owner": "TengdaHan",
             "repo": "DPC",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1482,12 +2069,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-supervised Spatiotemporal Learning via Video Clip Order Prediction",
+            "homepage": null,
             "id": 187496882,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-22T06:07:43Z",
+            "open_issues": 6,
             "owner": "xudejing",
             "repo": "video-clip-order-prediction",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "cvpr2019",
+              "pytorch",
+              "self-supervised-learning",
+              "spatiotemporal",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1498,12 +2096,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for CVPR-2019 paper: Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics",
+            "homepage": null,
             "id": 179447140,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-09T03:01:57Z",
+            "open_issues": 3,
             "owner": "laura-wang",
             "repo": "video_repres_mas",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "action-recognition",
+              "cvpr2019",
+              "self-supervised-learning",
+              "spatio-temporal-analysis",
+              "tensorflow",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         }
@@ -1512,15 +2122,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:42:37.962Z",
+    "last_updated": "2026-08-29T04:55:10.041Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A curated list of awesome self-supervised learning methods in videos",
+      "homepage": null,
       "id": 623570897,
       "language": "HTML",
+      "license": null,
       "last_commit": "2026-08-23T22:08:23Z",
+      "open_issues": 1,
       "owner": "Malitha123",
       "repo": "awesome-video-self-supervised-learning",
-      "stars": 173
+      "stars": 173,
+      "topics": [
+        "artificial-intelligence",
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "machine-learning",
+        "representation-learning",
+        "self-supervised-learning",
+        "video",
+        "video-analysis"
+      ]
     },
     "original_repository_sha": "2bf37e9b28dfeb22d23de1ddeafbc9916212ec62",
     "enhanced_repository": "enhansome/enhansome-video-self-supervised-learning",
