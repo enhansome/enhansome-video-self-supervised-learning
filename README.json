@@ -578,7 +578,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "omnivore",
-            "stars": 573,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38645,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 444,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7411,
+            "stars": 7412,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 444,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7411,
+            "stars": 7412,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:10.041Z",
+    "last_updated": "2026-08-29T11:47:12.593Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
