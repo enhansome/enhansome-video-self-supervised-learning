@@ -98,7 +98,7 @@
             "open_issues": 87,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4574,
+            "stars": 4577,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 87,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4574,
+            "stars": 4577,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -781,11 +781,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:11:37Z",
+            "last_commit": "2026-09-05T00:14:58Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77662,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -802,11 +802,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:11:37Z",
+            "last_commit": "2026-09-05T00:14:58Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77662,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1259,11 +1259,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:11:37Z",
+            "last_commit": "2026-09-05T00:14:58Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77662,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38690,
+            "stars": 38692,
             "topics": [
               "ai",
               "machine-learning",
@@ -1717,7 +1717,7 @@
             "open_issues": 25,
             "owner": "HobbitLong",
             "repo": "CMC",
-            "stars": 1340,
+            "stars": 1339,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:55:50.237Z",
+    "last_updated": "2026-09-05T09:21:45.626Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
