@@ -1,5 +1,5 @@
 [![Last Updated](https://img.shields.io/github/last-commit/Malitha123/awesome-video-self-supervised-learning?color=blue\&label=Last%20Updated)](https://github.com/Malitha123/awesome-video-self-supervised-learning/commits/main) ⭐ 173 | 🐛 0 | 🌐 HTML | 📅 2026-08-30
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,121 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,436 | 🐛 106 | 📅 2026-09-02
 [![Our Paper](https://img.shields.io/badge/Our_Paper-blue)](https://www.preprints.org/manuscript/202408.0133/v1)
 [![Live Website](https://img.shields.io/badge/Live_Website-VideoSSL-blue)](https://malitha123.github.io/awesome-video-self-supervised-learning/)
 
@@ -862,17 +862,17 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **Contextualized spatio-temporal contrastive learning with self-supervision** (2022)<br>
   *CVPR 2022* <br>
   Liangzhe Yuan, Rui Qian, Yin Cui, Boqing Gong,Florian Schroff,Ming-Hsuan Yang, Hartwig Adam, Ting Liu<br>
-  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Yuan_Contextualized_Spatio-Temporal_Contrastive_Learning_With_Self-Supervision_CVPR_2022_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/projects/const_cl) ⭐ 77,662 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Yuan_Contextualized_Spatio-Temporal_Contrastive_Learning_With_Self-Supervision_CVPR_2022_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/projects/const_cl) ⭐ 77,659 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05
 
 * **On temporal granularity in self-supervised video representation learning** (2022)<br>
   *BMVC 2022* <br>
   Rui Qian, Yeqing Li, Liangzhe Yuan, Boqing Gong, Ting Liu, Matthew Brown, Serge Belongie, Ming-Hsuan Yang, Hartwig Adam, and Yin Cui<br>
-  [\[Paper\]](https://bmvc2022.mpi-inf.mpg.de/541/) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,662 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05
+  [\[Paper\]](https://bmvc2022.mpi-inf.mpg.de/541/) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,659 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05
 
 * **InternVideo: General Video Foundation Models via Generative and Discriminative Learning** (2022)<br>
   *arXiv / Preprint* <br>
   Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zhang,Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu,Yali Wang, Limin Wang, Yu Qiao<br>
-  [\[Paper\]](https://arxiv.org/abs/2212.03191) [\[Code\]](https://github.com/OpenGVLab/InternVideo) ⭐ 2,376 | 🐛 147 | 🌐 Python | 📅 2026-07-02
+  [\[Paper\]](https://arxiv.org/abs/2212.03191) [\[Code\]](https://github.com/OpenGVLab/InternVideo) ⭐ 2,377 | 🐛 147 | 🌐 Python | 📅 2026-07-02
 
 * **VideoMAE: Masked Autoencoders Are Data-Efficient Learners for Self-Supervised Video Pre-Training** (2022)<br>
   *NeurIPS 2022* <br>
@@ -907,12 +907,12 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **Federated Self-supervised Learning for Video Understanding** (2022)<br>
   *ECCV 2022* <br>
   Yasar Abbas Ur Rehman, Yan Gao, Jiajun Shen, Pedro Porto Buarque de Gusmão , Nicholas Lane<br>
-  [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_29) [\[Code\]](https://github.com/yasar-rehman/FEDVSSL) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-12-19
+  [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_29) [\[Code\]](https://github.com/yasar-rehman/FEDVSSL) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-12-19
 
 * **TCGL: Temporal Contrastive Graph for Self-Supervised Video Representation Learning** (2022)<br>
   *IEEE Transactions on Image Processing 2022* <br>
   Yang Liu , Keze Wang , Lingbo Liu , Haoyuan Lan, and Liang Lin<br>
-  [\[Paper\]](https://ieeexplore.ieee.org/document/9713748) [\[Code\]](https://github.com/YangLiu9208/TCGL) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2023-12-19
+  [\[Paper\]](https://ieeexplore.ieee.org/document/9713748) [\[Code\]](https://github.com/YangLiu9208/TCGL) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2023-12-19
 
 * **SPAct: Self-supervised Privacy Preservation for Action Recognition** (2022)<br>
   *CVPR 2022* <br>
@@ -1144,12 +1144,12 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **Spatiotemporal contrastive video representation learning** (2021)<br>
   *CVPR 2021* <br>
   Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui<br>
-  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Spatio-Temporal_Contrastive_Video_Representation_Learning_CVPR_2021_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,662 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Spatio-Temporal_Contrastive_Video_Representation_Learning_CVPR_2021_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,659 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05
 
 * **VATT: Transformers for multimodal self-supervised learning from raw video, audio and text** (2021)<br>
   *NeurIPS 2021* <br>
   Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong<br>
-  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,692 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-03
+  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,693 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
 
 * **A large-scale study on unsupervised spatiotemporal representation learning** (2021)<br>
   *CVPR 2021* <br>
@@ -1601,4 +1601,4 @@ Major families include contrastive and non-contrastive representation learning, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

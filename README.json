@@ -785,7 +785,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -827,7 +827,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2376,
+            "stars": 2377,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -1020,7 +1020,7 @@
             "open_issues": 0,
             "owner": "yasar-rehman",
             "repo": "FEDVSSL",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1041,7 +1041,7 @@
             "open_issues": 1,
             "owner": "YangLiu9208",
             "repo": "TCGL",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "action-recognition",
               "graph",
@@ -1263,7 +1263,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1281,10 +1281,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T08:28:07Z",
-            "open_issues": 1989,
+            "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38692,
+            "stars": 38693,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:21:45.626Z",
+    "last_updated": "2026-09-06T09:39:52.910Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
