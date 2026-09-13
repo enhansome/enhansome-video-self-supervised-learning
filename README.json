@@ -98,7 +98,7 @@
             "open_issues": 91,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4604,
+            "stars": 4607,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 91,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4604,
+            "stars": 4607,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -869,7 +869,7 @@
             "open_issues": 50,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1793,
+            "stars": 1794,
             "topics": [
               "action-recognition",
               "mae",
@@ -1284,7 +1284,7 @@
             "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38740,
+            "stars": 38746,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:34:42.516Z",
+    "last_updated": "2026-09-13T10:37:13.653Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
