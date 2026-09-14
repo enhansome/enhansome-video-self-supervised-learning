@@ -1,5 +1,5 @@
-[![Last Updated](https://img.shields.io/github/last-commit/Malitha123/awesome-video-self-supervised-learning?color=blue\&label=Last%20Updated)](https://github.com/Malitha123/awesome-video-self-supervised-learning/commits/main) ⭐ 173 | 🐛 0 | 🌐 HTML | 📅 2026-08-30
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,571 | 🐛 106 | 📅 2026-09-02
+[![Last Updated](https://img.shields.io/github/last-commit/Malitha123/awesome-video-self-supervised-learning?color=blue\&label=Last%20Updated)](https://github.com/Malitha123/awesome-video-self-supervised-learning/commits/main) ⭐ 173 | 🐛 0 | 🌐 HTML | 📅 2026-09-14
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,905 | 🐛 106 | 📅 2026-09-02
 [![Our Paper](https://img.shields.io/badge/Our_Paper-blue)](https://www.preprints.org/manuscript/202408.0133/v1)
 [![Live Website](https://img.shields.io/badge/Live_Website-VideoSSL-blue)](https://malitha123.github.io/awesome-video-self-supervised-learning/)
 
@@ -42,7 +42,7 @@ We identify three major families of videoSSL methods: (a) Methods that focus on 
 
 In this repository, we have gathered some of the most promising self-supervised learning approaches for video analysis and organized them based on their publication year. Whether you are new to self-supervised learning in videos or an experienced researcher in the field, we hope that this repository will serve as a valuable resource for exploring the latest advances in this exciting area of research.
 
-**Let's collaborate and enrich this list together! Reach out to [me](https://malitha123.github.io/malitha/) or submit a [pull request](https://github.com/Malitha123/awesome-video-self-supervised-learning/pulls) ⭐ 173 | 🐛 0 | 🌐 HTML | 📅 2026-08-30. Your contributions are highly appreciated.**
+**Let's collaborate and enrich this list together! Reach out to [me](https://malitha123.github.io/malitha/) or submit a [pull request](https://github.com/Malitha123/awesome-video-self-supervised-learning/pulls) ⭐ 173 | 🐛 0 | 🌐 HTML | 📅 2026-09-14. Your contributions are highly appreciated.**
 
 <div align="center">
     <img src="./media/We_Want_You.png" alt="alt text" width="250" height="250">
@@ -139,7 +139,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning** (2026)<br>
   *arXiv preprint* <br>
   Lorenzo Mur-Labadia, Matthew Muckley, Amir Bar, Mido Assran, Koustuv Sinha, Mike Rabbat, Yann LeCun, Nicolas Ballas, Adrien Bardes<br>
-  [\[Paper\]](https://arxiv.org/abs/2603.14482) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,607 | 🐛 91 | 🌐 Python | 📅 2026-03-23
+  [\[Paper\]](https://arxiv.org/abs/2603.14482) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,614 | 🐛 91 | 🌐 Python | 📅 2026-03-23
 
 * **OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence** (2026)<br>
   *arXiv preprint* <br>
@@ -149,7 +149,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **Self-Supervised Learning of Structured Dynamics from Videos** (2026)<br>
   *arXiv preprint* <br>
   Lukas Knobel, Andrew Zisserman, Yuki M. Asano<br>
-  [\[Paper\]](https://arxiv.org/abs/2607.21576) [\[Code\]](https://github.com/lukasknobel/StructuredDynamics) ⭐ 21 | 🐛 0 | 📅 2026-07-24 [\[Project Page\]](https://lukasknobel.github.io/projects/StructuredDynamics/)
+  [\[Paper\]](https://arxiv.org/abs/2607.21576) [\[Code\]](https://github.com/lukasknobel/StructuredDynamics) ⭐ 22 | 🐛 0 | 📅 2026-07-24 [\[Project Page\]](https://lukasknobel.github.io/projects/StructuredDynamics/)
 
 * **From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning** (2026)<br>
   *CVPR 2026* <br>
@@ -241,7 +241,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning** (2025)<br>
   *arXiv preprint* <br>
   Mido Assran, Adrien Bardes, David Fan, Quentin Garrido, Russell Howes, Mojtaba, Komeili, Matthew Muckley, Ammar Rizvi, Claire Roberts, Koustuv Sinha, Artem Zholus, Sergio Arnaud, Abha Gejji, Ada Martin, Francois Robert Hogan, Daniel Dugas, Piotr Bojanowski, Vasil Khalidov, Patrick Labatut, Francisco Massa, Marc Szafraniec, Kapil Krishnakumar, Yong Li, Xiaodong Ma, Sarath Chandar, Franziska Meier, Yann LeCun, Michael Rabbat, Nicolas Ballas ;<br>
-  [\[Paper\]](https://arxiv.org/abs/2506.09985) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,607 | 🐛 91 | 🌐 Python | 📅 2026-03-23
+  [\[Paper\]](https://arxiv.org/abs/2506.09985) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,614 | 🐛 91 | 🌐 Python | 📅 2026-03-23
 
 * **SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning** (2025)<br>
   *CVPR 2025* <br>
@@ -862,17 +862,17 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **Contextualized spatio-temporal contrastive learning with self-supervision** (2022)<br>
   *CVPR 2022* <br>
   Liangzhe Yuan, Rui Qian, Yin Cui, Boqing Gong,Florian Schroff,Ming-Hsuan Yang, Hartwig Adam, Ting Liu<br>
-  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Yuan_Contextualized_Spatio-Temporal_Contrastive_Learning_With_Self-Supervision_CVPR_2022_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/projects/const_cl) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Yuan_Contextualized_Spatio-Temporal_Contrastive_Learning_With_Self-Supervision_CVPR_2022_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/projects/const_cl) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10
 
 * **On temporal granularity in self-supervised video representation learning** (2022)<br>
   *BMVC 2022* <br>
   Rui Qian, Yeqing Li, Liangzhe Yuan, Boqing Gong, Ting Liu, Matthew Brown, Serge Belongie, Ming-Hsuan Yang, Hartwig Adam, and Yin Cui<br>
-  [\[Paper\]](https://bmvc2022.mpi-inf.mpg.de/541/) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10
+  [\[Paper\]](https://bmvc2022.mpi-inf.mpg.de/541/) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10
 
 * **InternVideo: General Video Foundation Models via Generative and Discriminative Learning** (2022)<br>
   *arXiv / Preprint* <br>
   Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zhang,Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu,Yali Wang, Limin Wang, Yu Qiao<br>
-  [\[Paper\]](https://arxiv.org/abs/2212.03191) [\[Code\]](https://github.com/OpenGVLab/InternVideo) ⭐ 2,385 | 🐛 147 | 🌐 Python | 📅 2026-07-02
+  [\[Paper\]](https://arxiv.org/abs/2212.03191) [\[Code\]](https://github.com/OpenGVLab/InternVideo) ⭐ 2,386 | 🐛 147 | 🌐 Python | 📅 2026-07-02
 
 * **VideoMAE: Masked Autoencoders Are Data-Efficient Learners for Self-Supervised Video Pre-Training** (2022)<br>
   *NeurIPS 2022* <br>
@@ -1144,12 +1144,12 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **Spatiotemporal contrastive video representation learning** (2021)<br>
   *CVPR 2021* <br>
   Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui<br>
-  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Spatio-Temporal_Contrastive_Video_Representation_Learning_CVPR_2021_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Spatio-Temporal_Contrastive_Video_Representation_Learning_CVPR_2021_paper.html) [\[Code\]](https://github.com/tensorflow/models/tree/master/official/) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10
 
 * **VATT: Transformers for multimodal self-supervised learning from raw video, audio and text** (2021)<br>
   *NeurIPS 2021* <br>
   Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong<br>
-  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,746 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
+  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,752 | 🐛 1,993 | 🌐 Jupyter Notebook | 📅 2026-09-10
 
 * **A large-scale study on unsupervised spatiotemporal representation learning** (2021)<br>
   *CVPR 2021* <br>
@@ -1601,4 +1601,4 @@ Major families include contrastive and non-contrastive representation learning, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

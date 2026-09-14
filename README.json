@@ -98,7 +98,7 @@
             "open_issues": 91,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4607,
+            "stars": 4614,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "lukasknobel",
             "repo": "StructuredDynamics",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 91,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4607,
+            "stars": 4614,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -827,7 +827,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2385,
+            "stars": 2386,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -1263,7 +1263,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1281,10 +1281,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1992,
+            "open_issues": 1993,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38746,
+            "stars": 38752,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:37:13.653Z",
+    "last_updated": "2026-09-14T10:58:43.127Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
@@ -2130,7 +2130,7 @@
       "id": 623570897,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-08-30T22:09:11Z",
+      "last_commit": "2026-09-14T00:27:49Z",
       "open_issues": 0,
       "owner": "Malitha123",
       "repo": "awesome-video-self-supervised-learning",
@@ -2147,7 +2147,7 @@
         "video-analysis"
       ]
     },
-    "original_repository_sha": "4d344ddd119de3c6b56d560b56845fefcc732924",
+    "original_repository_sha": "42e63982aa8646889eef72590d5018d2e3b26d25",
     "enhanced_repository": "enhansome/enhansome-video-self-supervised-learning",
     "enhanced_repository_description": null,
     "title": "Awesome Surveys with stars"
