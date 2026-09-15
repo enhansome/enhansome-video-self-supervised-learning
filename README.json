@@ -98,7 +98,7 @@
             "open_issues": 91,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4614,
+            "stars": 4622,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 91,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4614,
+            "stars": 4622,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -578,7 +578,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "omnivore",
-            "stars": 571,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -827,7 +827,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -866,7 +866,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-12-08T13:44:48Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
             "stars": 1794,
@@ -1281,10 +1281,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1993,
+            "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38752,
+            "stars": 38766,
             "topics": [
               "ai",
               "machine-learning",
@@ -1306,7 +1306,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-16T11:07:10Z",
-            "open_issues": 444,
+            "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
             "stars": 7421,
@@ -1480,7 +1480,7 @@
             "open_issues": 4,
             "owner": "google-deepmind",
             "repo": "brave",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1693,7 +1693,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-16T11:07:10Z",
-            "open_issues": 444,
+            "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
             "stars": 7421,
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:58:43.127Z",
+    "last_updated": "2026-09-15T10:28:09.428Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
