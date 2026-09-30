@@ -98,7 +98,7 @@
             "open_issues": 92,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4700,
+            "stars": 4705,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -193,27 +193,6 @@
         },
         {
           "node_type": "item",
-          "title": "TrAction: Action Recognition with Sparse Trajectories (2026) arXiv preprint Jan F. Meier, Felix B. Mueller, Alexander Ecker, Timo Lüddecke [Paper]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for the paper \"TrAction: Action Recognition with Sparse Trajectories\"",
-            "homepage": null,
-            "id": 1255908309,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-01T09:30:34Z",
-            "open_issues": 0,
-            "owner": "ecker-lab",
-            "repo": "TrAction",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:42:37.962Z"
-        },
-        {
-          "node_type": "item",
           "title": "Factorized Latent Dynamics for Video JEPA: An Empirical Study of Auxiliary Objectives (2026) arXiv preprint Santosh Premi [Paper]",
           "description": "[Code]",
           "children": [],
@@ -228,6 +207,27 @@
             "open_issues": 0,
             "owner": "santoshpremi",
             "repo": "Factorized-Latent-Dynamics-for-Video-JEPA-An-Empirical-Study-of-Auxiliary-Objectives",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T17:42:37.962Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TrAction: Action Recognition with Sparse Trajectories (2026) arXiv preprint Jan F. Meier, Felix B. Mueller, Alexander Ecker, Timo Lüddecke [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for the paper \"TrAction: Action Recognition with Sparse Trajectories\"",
+            "homepage": null,
+            "id": 1255908309,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-01T09:30:34Z",
+            "open_issues": 0,
+            "owner": "ecker-lab",
+            "repo": "TrAction",
             "stars": 2,
             "topics": []
           },
@@ -276,7 +276,7 @@
             "open_issues": 92,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4700,
+            "stars": 4705,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -869,7 +869,7 @@
             "open_issues": 51,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1796,
+            "stars": 1797,
             "topics": [
               "action-recognition",
               "mae",
@@ -1263,7 +1263,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38846,
+            "stars": 38853,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7425,
+            "stars": 7426,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7425,
+            "stars": 7426,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:34:33.573Z",
+    "last_updated": "2026-09-30T11:21:31.198Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
