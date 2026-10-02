@@ -98,7 +98,7 @@
             "open_issues": 92,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4706,
+            "stars": 4711,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 92,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4706,
+            "stars": 4711,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -781,11 +781,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:32:00Z",
+            "last_commit": "2026-10-01T16:19:37Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -802,11 +802,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:32:00Z",
+            "last_commit": "2026-10-01T16:19:37Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -827,7 +827,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2398,
+            "stars": 2401,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -1259,11 +1259,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:32:00Z",
+            "last_commit": "2026-10-01T16:19:37Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38856,
+            "stars": 38861,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7426,
+            "stars": 7429,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7426,
+            "stars": 7429,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:48:19.994Z",
+    "last_updated": "2026-10-02T11:21:09.108Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
