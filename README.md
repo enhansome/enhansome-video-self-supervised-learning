@@ -1,5 +1,5 @@
 [![Last Updated](https://img.shields.io/github/last-commit/Malitha123/awesome-video-self-supervised-learning?color=blue\&label=Last%20Updated)](https://github.com/Malitha123/awesome-video-self-supervised-learning/commits/main)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,882 | 🐛 106 | 📅 2026-09-02
 [![Our Paper](https://img.shields.io/badge/Our_Paper-blue)](https://www.preprints.org/manuscript/202408.0133/v1)
 [![Live Website](https://img.shields.io/badge/Live_Website-VideoSSL-blue)](https://malitha123.github.io/awesome-video-self-supervised-learning/)
 
@@ -1149,7 +1149,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **VATT: Transformers for multimodal self-supervised learning from raw video, audio and text** (2021)<br>
   *NeurIPS 2021* <br>
   Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong<br>
-  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,863 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
+  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,866 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
 
 * **A large-scale study on unsupervised spatiotemporal representation learning** (2021)<br>
   *CVPR 2021* <br>

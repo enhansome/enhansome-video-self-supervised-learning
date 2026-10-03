@@ -1284,7 +1284,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38863,
+            "stars": 38866,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:13:18.060Z",
+    "last_updated": "2026-10-03T10:37:07.537Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
