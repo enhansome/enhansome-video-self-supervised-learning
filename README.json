@@ -98,7 +98,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4709,
+            "stars": 4710,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4709,
+            "stars": 4710,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1263,7 +1263,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1281,10 +1281,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:03:49Z",
-            "open_issues": 1996,
+            "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38866,
+            "stars": 38870,
             "topics": [
               "ai",
               "machine-learning",
@@ -1522,7 +1522,7 @@
             "open_issues": 3,
             "owner": "microsoft",
             "repo": "CtP",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:37:07.537Z",
+    "last_updated": "2026-10-04T11:17:19.257Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
