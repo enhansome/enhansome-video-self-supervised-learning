@@ -98,7 +98,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -827,7 +827,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2401,
+            "stars": 2402,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -869,7 +869,7 @@
             "open_issues": 51,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1797,
+            "stars": 1798,
             "topics": [
               "action-recognition",
               "mae",
@@ -1263,7 +1263,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38870,
+            "stars": 38872,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:17:19.257Z",
+    "last_updated": "2026-10-05T12:39:23.827Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
@@ -2130,8 +2130,8 @@
       "id": 623570897,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-09-14T00:27:49Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-05T00:06:17Z",
+      "open_issues": 1,
       "owner": "Malitha123",
       "repo": "awesome-video-self-supervised-learning",
       "stars": 174,
