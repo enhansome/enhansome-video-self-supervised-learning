@@ -98,7 +98,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4772,
+            "stars": 4778,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4772,
+            "stars": 4778,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77647,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77647,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1006,27 +1006,6 @@
         },
         {
           "node_type": "item",
-          "title": "Federated Self-supervised Learning for Video Understanding (2022) ECCV 2022 Yasar Abbas Ur Rehman, Yan Gao, Jiajun Shen, Pedro Porto Buarque de Gusmão , Nicholas Lane [Paper]",
-          "description": "yasar-rehman/FEDVSSL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is the official impelementation of \"FVSSL Algorithm\"",
-            "homepage": null,
-            "id": 510383633,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2023-12-19T02:14:37Z",
-            "open_issues": 0,
-            "owner": "yasar-rehman",
-            "repo": "FEDVSSL",
-            "stars": 26,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:42:37.962Z"
-        },
-        {
-          "node_type": "item",
           "title": "TCGL: Temporal Contrastive Graph for Self-Supervised Video Representation Learning (2022) IEEE Transactions on Image Processing 2022 Yang Liu , Keze Wang , Lingbo Liu , Haoyuan Lan, and Liang Lin [Paper]",
           "description": "YangLiu9208/TCGL",
           "children": [],
@@ -1049,6 +1028,27 @@
               "self-supervised-learning",
               "video-understanding"
             ]
+          },
+          "first_seen": "2026-08-28T17:42:37.962Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Self-supervised Learning for Video Understanding (2022) ECCV 2022 Yasar Abbas Ur Rehman, Yan Gao, Jiajun Shen, Pedro Porto Buarque de Gusmão , Nicholas Lane [Paper]",
+          "description": "yasar-rehman/FEDVSSL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the official impelementation of \"FVSSL Algorithm\"",
+            "homepage": null,
+            "id": 510383633,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2023-12-19T02:14:37Z",
+            "open_issues": 0,
+            "owner": "yasar-rehman",
+            "repo": "FEDVSSL",
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
         },
@@ -1263,7 +1263,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77647,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1281,10 +1281,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:18:00Z",
-            "open_issues": 2005,
+            "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38921,
+            "stars": 38925,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7432,
+            "stars": 7433,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7432,
+            "stars": 7433,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:17:46.510Z",
+    "last_updated": "2026-10-16T10:06:07.383Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
