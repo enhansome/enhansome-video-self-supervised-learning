@@ -98,7 +98,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4783,
+            "stars": 4788,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 94,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4783,
+            "stars": 4788,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -827,7 +827,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2408,
+            "stars": 2409,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -1263,7 +1263,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38934,
+            "stars": 38953,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7434,
+            "stars": 7435,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7434,
+            "stars": 7435,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:53:25.196Z",
+    "last_updated": "2026-10-19T11:15:42.076Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
