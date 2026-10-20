@@ -95,10 +95,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-23T10:13:05Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4788,
+            "stars": 4790,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -273,10 +273,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-23T10:13:05Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4788,
+            "stars": 4790,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -869,7 +869,7 @@
             "open_issues": 52,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1802,
+            "stars": 1803,
             "topics": [
               "action-recognition",
               "mae",
@@ -1263,7 +1263,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38953,
+            "stars": 38971,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7435,
+            "stars": 7436,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7435,
+            "stars": 7436,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1916,7 +1916,7 @@
             "open_issues": 3,
             "owner": "sjenni",
             "repo": "temporal-ssl",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "action-recognition",
               "c3d",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T11:15:42.076Z",
+    "last_updated": "2026-10-20T10:25:03.314Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
