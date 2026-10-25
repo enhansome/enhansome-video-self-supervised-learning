@@ -98,7 +98,7 @@
             "open_issues": 98,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4810,
+            "stars": 4811,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 98,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4810,
+            "stars": 4811,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -869,7 +869,7 @@
             "open_issues": 52,
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1807,
+            "stars": 1808,
             "topics": [
               "action-recognition",
               "mae",
@@ -1280,11 +1280,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T21:57:07Z",
+            "last_commit": "2026-10-25T00:00:25Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39015,
+            "stars": 39023,
             "topics": [
               "ai",
               "machine-learning",
@@ -1309,7 +1309,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7436,
+            "stars": 7437,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 445,
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7436,
+            "stars": 7437,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1717,7 +1717,7 @@
             "open_issues": 25,
             "owner": "HobbitLong",
             "repo": "CMC",
-            "stars": 1338,
+            "stars": 1339,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:47:27.474Z",
+    "last_updated": "2026-10-25T10:08:44.945Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
