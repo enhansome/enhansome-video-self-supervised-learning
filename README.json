@@ -98,7 +98,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4837,
+            "stars": 4838,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -186,7 +186,7 @@
             "open_issues": 1,
             "owner": "rvandeghen",
             "repo": "TrackMAE",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4837,
+            "stars": 4838,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-02T03:20:41Z",
-            "open_issues": 147,
+            "open_issues": 148,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
             "stars": 2415,
@@ -1280,11 +1280,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T11:22:45Z",
+            "last_commit": "2026-10-30T23:22:33Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39062,
+            "stars": 39068,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:38:35.712Z",
+    "last_updated": "2026-10-31T11:14:04.755Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
