@@ -98,7 +98,7 @@
             "open_issues": 98,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4839,
+            "stars": 4845,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -276,7 +276,7 @@
             "open_issues": 98,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4839,
+            "stars": 4845,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -785,7 +785,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77638,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -806,7 +806,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77638,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1263,7 +1263,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77638,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39080,
+            "stars": 39093,
             "topics": [
               "ai",
               "machine-learning",
@@ -1717,7 +1717,7 @@
             "open_issues": 25,
             "owner": "HobbitLong",
             "repo": "CMC",
-            "stars": 1339,
+            "stars": 1340,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:01:30.762Z",
+    "last_updated": "2026-11-02T13:51:08.426Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
@@ -2134,7 +2134,7 @@
       "open_issues": 1,
       "owner": "Malitha123",
       "repo": "awesome-video-self-supervised-learning",
-      "stars": 175,
+      "stars": 176,
       "topics": [
         "artificial-intelligence",
         "awesome-list",
