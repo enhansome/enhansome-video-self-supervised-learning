@@ -1,5 +1,5 @@
 [![Last Updated](https://img.shields.io/github/last-commit/Malitha123/awesome-video-self-supervised-learning?color=blue\&label=Last%20Updated)](https://github.com/Malitha123/awesome-video-self-supervised-learning/commits/main)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,295 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,844 | 🐛 103 | 📅 2026-09-02
 [![Our Paper](https://img.shields.io/badge/Our_Paper-blue)](https://www.preprints.org/manuscript/202408.0133/v1)
 [![Live Website](https://img.shields.io/badge/Live_Website-VideoSSL-blue)](https://malitha123.github.io/awesome-video-self-supervised-learning/)
 
@@ -139,12 +139,12 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning** (2026)<br>
   *arXiv preprint* <br>
   Lorenzo Mur-Labadia, Matthew Muckley, Amir Bar, Mido Assran, Koustuv Sinha, Mike Rabbat, Yann LeCun, Nicolas Ballas, Adrien Bardes<br>
-  [\[Paper\]](https://arxiv.org/abs/2603.14482) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,911 | 🐛 98 | 🌐 Python | 📅 2026-10-29
+  [\[Paper\]](https://arxiv.org/abs/2603.14482) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,913 | 🐛 98 | 🌐 Python | 📅 2026-10-29
 
 * **OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence** (2026)<br>
   *arXiv preprint* <br>
   Feilong Tang, Xiang An, Yunyao Yan, Yin Xie, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Chunyuan Li, Shikun Feng, Changrui Chen, Huajie Tan, Ming Hu, Manyuan Zhang, Bo Li, Ziyong Feng, Ziwei Liu, Zongyuan Ge, Jiankang Deng<br>
-  [\[Paper\]](https://arxiv.org/abs/2602.08683) [\[Code\]](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder) ⭐ 408 | 🐛 16 | 🌐 Python | 📅 2026-11-02
+  [\[Paper\]](https://arxiv.org/abs/2602.08683) [\[Code\]](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder) ⭐ 409 | 🐛 16 | 🌐 Python | 📅 2026-11-02
 
 * **Self-Supervised Learning of Structured Dynamics from Videos** (2026)<br>
   *arXiv preprint* <br>
@@ -251,7 +251,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning** (2025)<br>
   *arXiv preprint* <br>
   Mido Assran, Adrien Bardes, David Fan, Quentin Garrido, Russell Howes, Mojtaba, Komeili, Matthew Muckley, Ammar Rizvi, Claire Roberts, Koustuv Sinha, Artem Zholus, Sergio Arnaud, Abha Gejji, Ada Martin, Francois Robert Hogan, Daniel Dugas, Piotr Bojanowski, Vasil Khalidov, Patrick Labatut, Francisco Massa, Marc Szafraniec, Kapil Krishnakumar, Yong Li, Xiaodong Ma, Sarath Chandar, Franziska Meier, Yann LeCun, Michael Rabbat, Nicolas Ballas ;<br>
-  [\[Paper\]](https://arxiv.org/abs/2506.09985) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,911 | 🐛 98 | 🌐 Python | 📅 2026-10-29
+  [\[Paper\]](https://arxiv.org/abs/2506.09985) [\[Code\]](https://github.com/facebookresearch/vjepa2) ⭐ 4,913 | 🐛 98 | 🌐 Python | 📅 2026-10-29
 
 * **SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning** (2025)<br>
   *CVPR 2025* <br>
@@ -882,7 +882,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **InternVideo: General Video Foundation Models via Generative and Discriminative Learning** (2022)<br>
   *arXiv / Preprint* <br>
   Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zhang,Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu,Yali Wang, Limin Wang, Yu Qiao<br>
-  [\[Paper\]](https://arxiv.org/abs/2212.03191) [\[Code\]](https://github.com/OpenGVLab/InternVideo) ⭐ 2,421 | 🐛 148 | 🌐 Python | 📅 2026-07-02
+  [\[Paper\]](https://arxiv.org/abs/2212.03191) [\[Code\]](https://github.com/OpenGVLab/InternVideo) ⭐ 2,421 | 🐛 149 | 🌐 Python | 📅 2026-07-02
 
 * **VideoMAE: Masked Autoencoders Are Data-Efficient Learners for Self-Supervised Video Pre-Training** (2022)<br>
   *NeurIPS 2022* <br>
@@ -1159,7 +1159,7 @@ Survey - https://dl.acm.org/doi/pdf/10.1145/3577925
 * **VATT: Transformers for multimodal self-supervised learning from raw video, audio and text** (2021)<br>
   *NeurIPS 2021* <br>
   Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong<br>
-  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 39,249 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-20
+  [\[Paper\]](https://proceedings.neurips.cc/paper/2021/hash/cb3213ada48302953cb0f166464ab356-Abstract.html) [\[Code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 39,256 | 🐛 2,014 | 🌐 Jupyter Notebook | 📅 2026-11-21
 
 * **A large-scale study on unsupervised spatiotemporal representation learning** (2021)<br>
   *CVPR 2021* <br>
@@ -1611,4 +1611,4 @@ Major families include contrastive and non-contrastive representation learning, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

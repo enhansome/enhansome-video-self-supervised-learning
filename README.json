@@ -98,7 +98,7 @@
             "open_issues": 98,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4911,
+            "stars": 4913,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -119,7 +119,7 @@
             "open_issues": 16,
             "owner": "EvolvingLMMs-Lab",
             "repo": "OneVision-Encoder",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "llava",
               "lmms",
@@ -276,7 +276,7 @@
             "open_issues": 98,
             "owner": "facebookresearch",
             "repo": "vjepa2",
-            "stars": 4911,
+            "stars": 4913,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:37.962Z"
@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-02T03:20:41Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
             "stars": 2421,
@@ -1280,11 +1280,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T22:58:37Z",
-            "open_issues": 2013,
+            "last_commit": "2026-11-21T15:37:23Z",
+            "open_issues": 2014,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39249,
+            "stars": 39256,
             "topics": [
               "ai",
               "machine-learning",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:42:37.842Z",
+    "last_updated": "2026-11-22T13:36:21.764Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome self-supervised learning methods in videos",
